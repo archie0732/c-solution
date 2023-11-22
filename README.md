@@ -1,4 +1,5 @@
 # 將解完的題目放在這裡（from 2023 11)
+![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
 
 ## 分類codeforce
 1. [Prefix Flip -Easy Version](https://github.com/archie0732/c-solution/blob/main/Prefix%20Flip%20-Easy%20Version.md)
