@@ -9,3 +9,6 @@
 ### leetcode 
 **Hard**
 1. [Median of Two Sorted Arrays](https://github.com/archie0732/c-solution/blob/main/leetcode/Median%20of%20Two%20Sorted%20Arrays.md)
+
+### other
+1. [Constructing a Number]
