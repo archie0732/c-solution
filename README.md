@@ -8,4 +8,4 @@
 3. [Berland Crossword](https://github.com/archie0732/c-solution/blob/main/codeforce/Berland%20Crossword.md)
 ### leetcode 
 **Hard**
-1. [Median of Two Sorted Arrays])
+1. [Median of Two Sorted Arrays](https://github.com/archie0732/c-solution/blob/main/leetcode/Median%20of%20Two%20Sorted%20Arrays.md)
