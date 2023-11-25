@@ -7,6 +7,7 @@
 2. [Balanced Tunnel](https://github.com/archie0732/c-solution/blob/main/codeforce/Balanced%20Tunnel.md#balanced-tunnel)`c++`
 3. [Berland Crossword](https://github.com/archie0732/c-solution/blob/main/codeforce/Berland%20Crossword.md)`c++`
 4. [2D Traveling](https://github.com/archie0732/c-solution/blob/main/codeforce/2D%20Traveling.md)`c++`
+5. [Queue Sort]
  ***
 ### leetcode 
 **Hard**
@@ -15,3 +16,4 @@
 ***
 ### other
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`(含筆記)
+2. [ Primitive Problem]
