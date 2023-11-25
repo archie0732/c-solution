@@ -1,7 +1,7 @@
 # 將解完的題目放在這裡（from 2023 11)
 ![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
 
-## 分類 ($`\textcolor{red}{紅色題目}`$*代表會超時的題目*)
+## 分類 ($`\textcolor{red}{紅色題目}`$*須注意時間複雜度*)
 ### codeforce
 1. [Prefix Flip -Easy Version](https://github.com/archie0732/c-solution/blob/main/Prefix%20Flip%20-Easy%20Version.md)`c++`
 2. [Balanced Tunnel](https://github.com/archie0732/c-solution/blob/main/codeforce/Balanced%20Tunnel.md#balanced-tunnel)`c++`
