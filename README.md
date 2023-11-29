@@ -4,7 +4,7 @@
 ## 分類 ($`\textcolor{red}{紅色題目}`$*須注意時間複雜度*)
 ## CPE 歷屆
 **1星**   
-1. [Vito's Family]()
+1. [ $`\textcolor{red}{Vito's Family}`$ ]()`c++`
 
 ***
 
