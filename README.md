@@ -5,6 +5,7 @@
 ## CPE 歷屆
 **1星**   
 1. [ $`\textcolor{red}{Vito's Family}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)`c++`
+2. [Hashmat the Brave Warrior]()`cpp` $`\textcolor{green}{超簡單}`$
 
 ***
 
@@ -21,7 +22,8 @@
 2. [Merge k Sorted Lists](https://github.com/archie0732/c-solution/blob/main/leetcode/Merge%20k%20Sorted%20Lists.md)`java`
 ***
 # online judge 
-1. [Vito's Family](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)
+1. [ $`\textcolor{red}{Vito's Family}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)
+2. [Hashmat the Brave Warrior]()
 
 ### other
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`$`\textcolor{green}{含筆記}`$
