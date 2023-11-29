@@ -4,7 +4,7 @@
 ## 分類 ($`\textcolor{red}{紅色題目}`$*須注意時間複雜度*)
 ## CPE 歷屆
 **1星**   
-1. [ $`\textcolor{red}{Vito's Family}`$ ]()`c++`
+1. [ $`\textcolor{red}{Vito's Family}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)`c++`
 
 ***
 
@@ -21,7 +21,7 @@
 2. [Merge k Sorted Lists](https://github.com/archie0732/c-solution/blob/main/leetcode/Merge%20k%20Sorted%20Lists.md)`java`
 ***
 # online judge 
-1. [Vito's Family]()
+1. [Vito's Family](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)
 
 ### other
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`$`\textcolor{green}{含筆記}`$
