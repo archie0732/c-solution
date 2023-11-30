@@ -17,7 +17,7 @@ $`\textcolor{blue}{output}`$
 
 For each line of input except the last you should compute and print the number of carry operations
 that would result from adding the two numbers, in the format shown below.
-
+***
 #### sample 
 
 123 456  
@@ -29,7 +29,7 @@ No carry operation.
 3 carry operations.
 1 carry operation.
 ```
-
+***
 ### $`\textcolor{red}{note}`$
 0 要輸出No 且字尾不用加`s`  
 1個沒有加`s`  
