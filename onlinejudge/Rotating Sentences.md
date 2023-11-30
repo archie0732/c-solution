@@ -1,5 +1,5 @@
 # Rotating Sentences
-
+[題目連結](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=431)
 * 題目
 
 In “Rotating Sentences,” you are asked to rotate a series of input sentences 90 degrees clockwise. So
