@@ -61,6 +61,7 @@ s2[3]s1[3]
 
 ==>$`\textcolor{red}{所以在長度不夠的情況下以'\quad '來湊}`$
 #### code 
+![](https://github.com/archie0732/c-solution/blob/main/picture/ayaka008.jpg)
 ```cpp
 #include <iostream>
 #include <vector>
