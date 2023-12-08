@@ -18,7 +18,7 @@ After each operation, you need to determine if there exists a pair of segments i
 ## 題目翻譯
 輸入t次(執行t次)    
 當輸入+lr及 ==>增加一組集合進入空間[l,r]      
-當輸入-lr及 ==>刪除一組在空間中的集合[l,r] (保證一定存在於空間)  
+當輸入-lr及 ==>刪除一組在空間中的集合[l,r] (**保證存在於空間**)  
 
 試問是否能找到兩組集合**不相交**  
 另如[1,2]與[3,4]不相交      
