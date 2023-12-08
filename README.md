@@ -31,7 +31,7 @@
 
 ### other
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`$`\textcolor{green}{含筆記}`$
-2. [ $`\textcolor{red}{Primitive \,Problem}`$ ](https://github.com/archie0732/c-solution/blob/main/other/Primitive%20Problem.md)`c++`
+2. [ $`\textcolor{red}{Primitive \,Problem}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 3. [B班hw 6](https://github.com/archie0732/c-solution/blob/main/other/6.c)`c`
 
 
