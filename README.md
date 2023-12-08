@@ -17,6 +17,7 @@
 3. [Berland Crossword](https://github.com/archie0732/c-solution/blob/main/codeforce/Berland%20Crossword.md)`c++`
 4. [2D Traveling](https://github.com/archie0732/c-solution/blob/main/codeforce/2D%20Traveling.md)`c++`
 5. [ $`\textcolor{red}{Queue\, Sort}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
+6. [ILove](https://github.com/archie0732/c-solution/blob/main/codeforce/ILove.md)
  ***
 ### leetcode 
 **Hard**
