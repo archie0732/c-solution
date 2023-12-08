@@ -6,7 +6,7 @@
 
 using namespace std;
 
-#define ll long long int
+
 
 vector<ll> fact;
 
