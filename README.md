@@ -1,7 +1,7 @@
 # 將解完的題目放在這裡（from 2023 11)
 ![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
 
-~~原本只是想要留個紀念順便教不會的人，沒想到變成要拿來自證清白~~
+
 
 ## 分類 ($`\textcolor{red}{紅色題目}`$*須注意時間複雜度*)
 ## CPE 歷屆
