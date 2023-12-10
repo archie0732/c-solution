@@ -1,6 +1,6 @@
 # Anji's Binary Tree
 
-
+[題目連結](https://codeforces.com/contest/1900/problem/C)
 ### 題目
 Keksic keeps getting left on seen by Anji. Through a mutual friend, he's figured out that Anji really likes binary trees and decided to solve her problem in order to get her attention.
 
