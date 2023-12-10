@@ -10,7 +10,7 @@
 2. [Hashmat the Brave Warrior](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hashmat%20the%20Brave%20Warrior.md)`c++` $`\textcolor{green}{超簡單}`$
 3. [Rotating Sentences](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rotating%20Sentences.md)`c++`$`\textcolor{green}{含筆記}`$
 4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
-5. [we can say 11](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
+5. [ $`\textcolor{red}{We\, \,can\,\, say\,\, 11}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
 
 ***
 
