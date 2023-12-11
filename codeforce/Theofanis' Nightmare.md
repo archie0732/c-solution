@@ -117,7 +117,7 @@ using namespace std;
     解題者:神里綾華的狗(dasabi7414)
     使用語言:C++11
     本次技巧:Greedy
-    解題連結:
+    解題連結:https://github.com/archie0732/c-solution/blob/main/codeforce/Theofanis'%20Nightmare.md
     本文會放在IT幫忙
 //* 備註:本題是使用"貪心演算法"請先確保已經熟悉!!
 */
