@@ -21,7 +21,8 @@
 4. [2D Traveling](https://github.com/archie0732/c-solution/blob/main/codeforce/2D%20Traveling.md)`c++`
 5. [ $`\textcolor{red}{Queue\, Sort}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 6. [ $`\textcolor{red}{InLove}`$ ](https://github.com/archie0732/c-solution/blob/main/codeforce/ILove.md)`c++`$`\textcolor{green}{含筆記}與\textcolor{green}{翻譯}`$
-7. [Anji's Binary Tree](https://github.com/archie0732/c-solution/blob/main/codeforce/Anji's%20Binary%20Tree.md)`cpp`
+7. [Anji's Binary Tree](https://github.com/archie0732/c-solution/blob/main/codeforce/Anji's%20Binary%20Tree.md)`c++`
+8. [Theofanis' Nightmare](https://github.com/archie0732/c-solution/blob/main/codeforce/Theofanis'%20Nightmare.md)`c++` $`\textcolor{green}{含筆記}`$
  ***
 ### leetcode 
 **Hard**
@@ -32,7 +33,7 @@
 1. [ $`\textcolor{red}{Vito's Family}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)`c++`
 2. [Hashmat the Brave Warrior](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hashmat%20the%20Brave%20Warrior.md)`c++`
 3. [Rotating Sentences](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rotating%20Sentences.md)`c++`
-4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`cpp`
+4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 5. [we can say 11](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
 
 ### other
