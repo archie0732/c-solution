@@ -23,6 +23,7 @@
 6. [ $`\textcolor{red}{InLove}`$ ](https://github.com/archie0732/c-solution/blob/main/codeforce/ILove.md)`c++`$`\textcolor{green}{含筆記}與\textcolor{green}{翻譯}`$
 7. [Anji's Binary Tree](https://github.com/archie0732/c-solution/blob/main/codeforce/Anji's%20Binary%20Tree.md)`c++`
 8. [Theofanis' Nightmare](https://github.com/archie0732/c-solution/blob/main/codeforce/Theofanis'%20Nightmare.md)`c++` $`\textcolor{green}{含筆記}`$
+9. [Ice and Fire](https://github.com/archie0732/c-solution/blob/main/codeforce/iceansfire.md)$`\textcolor{green}{含筆記}`$
  ***
 ### leetcode 
 **Hard**
