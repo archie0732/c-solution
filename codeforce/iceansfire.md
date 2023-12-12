@@ -36,6 +36,8 @@
 當沒有`連續出現相同值`時有機會贏的人數就是binary string的長度  
 
 ### code 
+
+![](https://github.com/archie0732/c-solution/blob/main/picture/ayaka010.jpeg)
 ```cpp
 #include <iostream>
 #include <vector>
