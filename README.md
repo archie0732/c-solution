@@ -11,6 +11,7 @@
 3. [Rotating Sentences](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rotating%20Sentences.md)`c++`$`\textcolor{green}{含筆記}`$
 4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 5. [ $`\textcolor{red}{We\, \,can\,\, say\,\, 11}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
+6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability%3F.md)`cpp`
 
 ***
 
@@ -36,6 +37,7 @@
 3. [Rotating Sentences](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rotating%20Sentences.md)`c++`
 4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 5. [we can say 11](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
+6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability%3F.md)`cpp`
 
 ### other
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`$`\textcolor{green}{含筆記}`$
