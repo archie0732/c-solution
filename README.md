@@ -4,6 +4,9 @@
 
 最近有點忙，有些還沒放上來，預計寒假會全部放上來
 
+#### 日誌
+* 12/18 以後放上來的題目會加入等級(難、中、易)
+
 ## 分類 ($`\textcolor{red}{紅色題目}`$*須注意時間複雜度*)
 ## CPE 歷屆
 **1星**   
@@ -27,6 +30,7 @@
 7. [Anji's Binary Tree](https://github.com/archie0732/c-solution/blob/main/codeforce/Anji's%20Binary%20Tree.md)`c++`
 8. [Theofanis' Nightmare](https://github.com/archie0732/c-solution/blob/main/codeforce/Theofanis'%20Nightmare.md)`c++` $`\textcolor{green}{含筆記}`$
 9. [Ice and Fire](https://github.com/archie0732/c-solution/blob/main/codeforce/iceansfire.md) `c++` $`\textcolor{green}{含筆記}`$
+10. [Line%20Trip](https://github.com/archie0732/c-solution/blob/main/codeforce/Line%20Trip.md)`cpp` $`\textcolor{green}{含筆記}`$
  ***
 ### leetcode 
 **Hard**
