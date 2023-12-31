@@ -31,7 +31,7 @@
 8. [Theofanis' Nightmare](https://github.com/archie0732/c-solution/blob/main/codeforce/Theofanis'%20Nightmare.md)`c++` $`\textcolor{green}{含筆記}`$
 9. [Ice and Fire](https://github.com/archie0732/c-solution/blob/main/codeforce/iceansfire.md) `c++` $`\textcolor{green}{含筆記}`$
 10. [Line%20Trip](https://github.com/archie0732/c-solution/blob/main/codeforce/Line%20Trip.md)`c++` $`\textcolor{green}{含筆記}`$
-11. [Erase First or Second Letter](https://github.com/archie0732/c-solution/blob/main/codeforce/Erase%20First%20or%20Second%20Letter.md)`c++` $`\textcolor{green}{含筆記}`$
+11. [Erase First or Second Letter](https://github.com/archie0732/c-solution/blob/main/codeforce/Erase%20First%20or%20Second%20Letter.md)`c++``greedy` $`\textcolor{green}{含筆記}`$
  ***
 ### leetcode 
 **Hard**
