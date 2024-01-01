@@ -2,11 +2,11 @@
 
 [題目連結](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/10443.pdf)
 
-#### 解題
+#### 題目意思
 
-講一下題目再講啥
-新的表就是舊的領地去四周(上下左右)找，有贏他的型態就淘汰   
-，其位置在新的表改變贏他的型態==>如果都平手或贏就不用變  
+大概講一下題目再講啥  
+新的表就是舊的領地去四周(上下左右)找，有贏他的型態就淘汰     
+，其位置在新的表改變贏他的型態==>如果都平手或贏就不用變    
 
 EX:
 
@@ -42,10 +42,41 @@ PPP
 
 至於 DAY 2 就把DAY 1當`舊表`，而 DAY 2 就是`新表`
 
+#### 解題
+
+1. 先建一個表(r+2)*(c+2)  ，填滿'X'
+
+
+2. 將輸入(例如):
+RRR
+RRR
+RRR
+
+變為:
+XXXXX
+XRRRX
+XRRRX
+XRRRX
+XXXXX
+(包裹起來，這樣就可以上下左右比較贏還是輸)
+
+
+比較規則:
+
+1. 任何型態(R、S、P)遇到 X ==> 變自己
+2. P 遇到 S ==> 變 S
+3. S 遇到 R ==> 變 R
+4. R 遇到 P ==> 變 P
+5. 其他情況，如平手或贏(像是R遇到S) ==> 變自己
+   
 
 #### code 
 
-![](https://i.ex-cdn.com/mgn.vn/files/content/2022/08/03/kamisato-ayaka-1145.jpg)  
+
+![](https://img.nga.178.com/attachments/mon_202204/18/i2Q17p-74nmKoT1kSga-ca.png)
+
+王手~
+
 ```cpp
 #include <iostream>
 #include <vector>
