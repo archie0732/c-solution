@@ -4,8 +4,7 @@
 
 最近有點忙，有些還沒放上來，預計寒假會全部放上來
 
-#### 日誌
-* 12/18 以後放上來的題目會加入等級(難、中、易，依據網站分級) 
+
 
 ## 分類 ($`\textcolor{red}{紅色題目}`$*須注意時間複雜度*)
 ## CPE 歷屆
@@ -18,6 +17,7 @@
 6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability%3F.md)`cpp`
 7. [Polynomial Showdown](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Polynomial%20Showdown.md)`cpp` $`\textcolor{green}{含筆記}`$
 8. [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
+9. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 ***
 
@@ -47,7 +47,8 @@
 4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 5. [we can say 11](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
 6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability%3F.md)`cpp`
-7. [Polynomial Showdown](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Polynomial%20Showdown.md)`cpp` $`\textcolor{green}{含筆記}`$ 
+7. [Polynomial Showdown](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Polynomial%20Showdown.md)`cpp` $`\textcolor{green}{含筆記}`$
+8. 9. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 ### other
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`$`\textcolor{green}{含筆記}`$
