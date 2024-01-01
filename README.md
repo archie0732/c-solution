@@ -16,7 +16,8 @@
 4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 5. [ $`\textcolor{red}{We\, \,can\,\, say\,\, 11}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
 6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability%3F.md)`cpp`
-7. [Polynomial Showdown](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Polynomial%20Showdown.md)`cpp` $`\textcolor{green}{含筆記}`$  
+7. [Polynomial Showdown](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Polynomial%20Showdown.md)`cpp` $`\textcolor{green}{含筆記}`$
+8. [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 ***
 
