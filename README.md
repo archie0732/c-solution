@@ -21,6 +21,7 @@
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
+2. [Bar Code](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bar%20Code.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 ***
 
@@ -54,6 +55,8 @@
 8.  [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
 9. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
 10. [What's Cryptanalysis? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%E2%80%99s%20Cryptanalysis%3F.md)`cpp` $`\textcolor{green}{含筆記}`$
+11. [Bar Code](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bar%20Code.md)`cpp` $`\textcolor{green}{含筆記}`$
+
 
 ### other
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`$`\textcolor{green}{含筆記}`$
