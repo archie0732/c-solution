@@ -18,6 +18,8 @@
 7. [Polynomial Showdown](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Polynomial%20Showdown.md)`cpp` $`\textcolor{green}{含筆記}`$
 8. [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
 9. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
+10. [What's Cryptanalysis? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%E2%80%99s%20Cryptanalysis%3F.md)`cpp` $`\textcolor{green}{含筆記}`$
+
 
 ***
 
@@ -31,7 +33,7 @@
 7. [Anji's Binary Tree](https://github.com/archie0732/c-solution/blob/main/codeforce/Anji's%20Binary%20Tree.md)`c++`
 8. [Theofanis' Nightmare](https://github.com/archie0732/c-solution/blob/main/codeforce/Theofanis'%20Nightmare.md)`c++` $`\textcolor{green}{含筆記}`$
 9. [Ice and Fire](https://github.com/archie0732/c-solution/blob/main/codeforce/iceansfire.md) `c++` $`\textcolor{green}{含筆記}`$
-10. [Line%20Trip](https://github.com/archie0732/c-solution/blob/main/codeforce/Line%20Trip.md)`c++` $`\textcolor{green}{含筆記}`$
+10. [Line Trip](https://github.com/archie0732/c-solution/blob/main/codeforce/Line%20Trip.md)`c++` $`\textcolor{green}{含筆記}`$
 11. [Erase First or Second Letter](https://github.com/archie0732/c-solution/blob/main/codeforce/Erase%20First%20or%20Second%20Letter.md)`c++` `greedy` $`\textcolor{green}{含筆記\quad易}`$
 12. [Least Product](https://github.com/archie0732/c-solution/blob/main/codeforce/Least%20Product.md)`c++` `math` $`\textcolor{green}{含筆記\quad易}`$
  ***
@@ -48,7 +50,9 @@
 5. [we can say 11](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
 6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability%3F.md)`cpp`
 7. [Polynomial Showdown](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Polynomial%20Showdown.md)`cpp` $`\textcolor{green}{含筆記}`$
-8. 9. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
+8.  [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
+9. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
+10. [What's Cryptanalysis? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%E2%80%99s%20Cryptanalysis%3F.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 ### other
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`$`\textcolor{green}{含筆記}`$
