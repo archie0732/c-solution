@@ -22,6 +22,7 @@
 11. [Summing Digits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Summing%20Digits.md)`cpp` $`\textcolor{green}{含筆記}`$
 12. [Common Permutation](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Common%20Permutation.md)`cpp` $`\textcolor{green}{含筆記}`$
 13. [TEX Quotes](https://github.com/archie0732/c-solution/blob/main/onlinejudge/TEX%20Quotes.md)`cpp` $`\textcolor{green}{含筆記}`$
+14. [ Jolly Jumpers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jolly%20Jumpers.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -64,6 +65,7 @@
 13. [Summing Digits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Summing%20Digits.md)`cpp` $`\textcolor{green}{含筆記}`$
 14. [Common Permutation](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Common%20Permutation.md)`cpp` $`\textcolor{green}{含筆記}`$
 15. [TEX Quotes](https://github.com/archie0732/c-solution/blob/main/onlinejudge/TEX%20Quotes.md)`cpp` $`\textcolor{green}{含筆記}`$
+16. [ Jolly Jumpers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jolly%20Jumpers.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 
 ### other
