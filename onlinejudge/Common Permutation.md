@@ -37,7 +37,8 @@ cckl
 
 #### code 
 
-![](https://c-ssl.duitang.com/uploads/blog/202110/31/20211031135621_e63dd.thumb.1000_0.jpg)
+![](https://cdn.donmai.us/sample/02/53/__kamisato_ayaka_and_sangonomiya_kokomi_genshin_impact_drawn_by_kvlen__sample-02535db4c1e43b84bac12ab2c970bac8.jpg)
+
 
 ```cpp
 #include <iostream>
