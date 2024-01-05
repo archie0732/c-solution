@@ -14,8 +14,7 @@
 
 
 
-![](https://rare-gallery.com/thumbnail/1332967-Kamisato-Ayaka-Genshin-ImpactGenshin-Impact-HD-Wallpaper.jpg)
-
+![](https://images8.alphacoders.com/120/1208462.jpg)
 #### code 
 
 ```cpp
