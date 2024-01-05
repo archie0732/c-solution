@@ -12,6 +12,10 @@
 >大於 0 ==> %7 去對照星期表，得解
 >小於 0 ==> %7 + 7 去對照星期表，得解
 
+
+
+![](https://rare-gallery.com/thumbnail/1332967-Kamisato-Ayaka-Genshin-ImpactGenshin-Impact-HD-Wallpaper.jpg)
+
 #### code 
 
 ```cpp
