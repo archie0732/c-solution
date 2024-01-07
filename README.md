@@ -25,6 +25,7 @@
 14. [ Jolly Jumpers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jolly%20Jumpers.md)`cpp` $`\textcolor{green}{含筆記}`$
 15. [Doom’s Day Algorithm](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Doom%E2%80%99s%20Day%20Algorithm.md)`cpp` $`\textcolor{green}{含筆記}`$
 16. [The Hotel with Infinite Rooms](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Hotel%20with%20Infinite%20Rooms.md)`cpp` $`\textcolor{green}{含筆記}`$
+17. [498-bis](https://github.com/archie0732/c-solution/blob/main/onlinejudge/498-bis.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -69,7 +70,8 @@
 15. [TEX Quotes](https://github.com/archie0732/c-solution/blob/main/onlinejudge/TEX%20Quotes.md)`cpp` $`\textcolor{green}{含筆記}`$
 16. [ Jolly Jumpers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jolly%20Jumpers.md)`cpp` $`\textcolor{green}{含筆記}`$
 17. [Doom’s Day Algorithm](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Doom%E2%80%99s%20Day%20Algorithm.md)`cpp` $`\textcolor{green}{含筆記}`$
-18.  [The Hotel with Infinite Rooms](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Hotel%20with%20Infinite%20Rooms.md)`cpp` $`\textcolor{green}{含筆記}`$
+18. [The Hotel with Infinite Rooms](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Hotel%20with%20Infinite%20Rooms.md)`cpp` $`\textcolor{green}{含筆記}`$
+19. [498-bis](https://github.com/archie0732/c-solution/blob/main/onlinejudge/498-bis.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 
 ### other
