@@ -29,6 +29,7 @@
 18. [odd sum](https://github.com/archie0732/c-solution/blob/main/onlinejudge/odd%20sum.md)`cpp` $`\textcolor{green}{含筆記}`$
 19. [Beat the Spread!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beat%20the%20Spread!.md)`cpp` $`\textcolor{green}{含筆記}`$
 20. [Square Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Square%20Numbers.md)`cpp` $`\textcolor{green}{含筆記}`$
+21. [Symmetric Matrix](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Symmetric%20Matrix.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -78,6 +79,7 @@
 20. [odd sum](https://github.com/archie0732/c-solution/blob/main/onlinejudge/odd%20sum.md)`cpp` $`\textcolor{green}{含筆記}`$
 21. [Beat the Spread!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beat%20the%20Spread!.md)`cpp` $`\textcolor{green}{含筆記}`$
 22. [Square Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Square%20Numbers.md)`cpp` $`\textcolor{green}{含筆記}`$
+23. [Symmetric Matrix](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Symmetric%20Matrix.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 
 ### other
