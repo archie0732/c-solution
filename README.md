@@ -27,6 +27,7 @@
 16. [The Hotel with Infinite Rooms](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Hotel%20with%20Infinite%20Rooms.md)`cpp` $`\textcolor{green}{含筆記}`$
 17. [498-bis](https://github.com/archie0732/c-solution/blob/main/onlinejudge/498-bis.md)`cpp` $`\textcolor{green}{含筆記}`$
 18. [odd sum](https://github.com/archie0732/c-solution/blob/main/onlinejudge/odd%20sum.md)`cpp` $`\textcolor{green}{含筆記}`$
+19. [Beat the Spread!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beat%20the%20Spread!.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -74,6 +75,7 @@
 18. [The Hotel with Infinite Rooms](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Hotel%20with%20Infinite%20Rooms.md)`cpp` $`\textcolor{green}{含筆記}`$
 19. [498-bis](https://github.com/archie0732/c-solution/blob/main/onlinejudge/498-bis.md)`cpp` $`\textcolor{green}{含筆記}`$
 20. [odd sum](https://github.com/archie0732/c-solution/blob/main/onlinejudge/odd%20sum.md)`cpp` $`\textcolor{green}{含筆記}`$
+21. [Beat the Spread!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beat%20the%20Spread!.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 
 ### other
