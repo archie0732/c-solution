@@ -34,6 +34,7 @@
 23. [Back to High School Physics](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Back%20to%20High%20School%20Physics.md)`cpp` $`\textcolor{green}{含筆記}`$
 24. [An Easy Problem!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/An%20Easy%20Problem!.md)`cpp` $`\textcolor{green}{含筆記}`$
 25. [Fibonaccimal Base](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fibonaccimal%20Base.md)`cpp` $`\textcolor{green}{含筆記}`$
+26. [Funny Encryption Method](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Funny%20Encryption%20Method.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -88,6 +89,7 @@
 25. [Back to High School Physics](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Back%20to%20High%20School%20Physics.md)`cpp` $`\textcolor{green}{含筆記}`$
 26. [An Easy Problem!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/An%20Easy%20Problem!.md)`cpp` $`\textcolor{green}{含筆記}`$
 27. [Fibonaccimal Base](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fibonaccimal%20Base.md)`cpp` $`\textcolor{green}{含筆記}`$
+28. [Funny Encryption Method](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Funny%20Encryption%20Method.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 
 ### other
