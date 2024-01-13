@@ -37,6 +37,7 @@
 26. [Funny Encryption Method](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Funny%20Encryption%20Method.md)`cpp` $`\textcolor{green}{含筆記}`$
 27. [Parity](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Parity.md)`cpp` $`\textcolor{green}{含筆記}`$
 28. [Divide, But Not Quite Conquer](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Divide%2C%20But%20Not%20Quite%20Conquer.md)`cpp` $`\textcolor{green}{含筆記}`$
+29. [All You Need Is Love](https://github.com/archie0732/c-solution/blob/main/onlinejudge/All%20You%20Need%20Is%20Love.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -94,6 +95,7 @@
 28. [Funny Encryption Method](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Funny%20Encryption%20Method.md)`cpp` $`\textcolor{green}{含筆記}`$
 29. [Parity](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Parity.md)`cpp` $`\textcolor{green}{含筆記}`$
 30. [Divide, But Not Quite Conquer](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Divide%2C%20But%20Not%20Quite%20Conquer.md)`cpp` $`\textcolor{green}{含筆記}`$
+31. [All You Need Is Love](https://github.com/archie0732/c-solution/blob/main/onlinejudge/All%20You%20Need%20Is%20Love.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 
 
