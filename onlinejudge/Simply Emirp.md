@@ -11,14 +11,14 @@
 
 接下來在去把數字相反
 
-$` textcolor{red}{!!注意!!} `$  
+$` \textcolor{red}{!!注意!!} `$  
 
 如果數字相反與相反前相同，那就是同一個數字 ==> 不是`Emirp`
 
 
 #### code 
 
-
+![](https://th.bing.com/th/id/R.1db70f35e7f3fc0b97807b6d6740ea97?rik=iv6c0dyhAZaPwA&pid=ImgRaw&r=0)
 ```cpp
 #include <iostream>
 #include <algorithm>
