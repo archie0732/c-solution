@@ -12,7 +12,7 @@
  >LCS(Longest Common Subsequence / 找共同子序列)
 
 
-[LCS演算法]()
+[LCS演算法](https://github.com/archie0732/c-library/blob/main/algorithm/dp/LCS.md)
 
 1. getline 兩個string 
 2. 建立dp二微陣列
