@@ -39,9 +39,10 @@
 28. [$`\textcolor{red}{Divide, But Not Quite Conquer}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Divide%2C%20But%20Not%20Quite%20Conquer.md) `cpp` $`\textcolor{green}{含筆記}`$
 29. [All You Need Is Love](https://github.com/archie0732/c-solution/blob/main/onlinejudge/All%20You%20Need%20Is%20Love.md)`cpp` $`\textcolor{green}{含筆記}`$
 30. [ $`\textcolor{red}{ Simply Emirp}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Simply%20Emirp.md)`cpp` $`\textcolor{green}{含筆記}`$
-31. [ $`\textcolor{red}{Sort! Sort!! and Sort!!!}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Sort!%20Sort!!%20and%20Sort!!!.md)`cpp` $`\textcolor{green}{含筆記}`$
-32. [Oil Deposits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Oil%20Deposits.md)`cpp` $`\textcolor{green}{含筆記}`$
-33. [GCD](https://github.com/archie0732/c-solution/blob/main/onlinejudge/GCD.md)`cpp` $`\textcolor{green}{含筆記}`$
+31. [ $`\textcolor{red}{Sort! Sort!! and Sort!!!}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Sort!%20Sort!!%20and%20Sort!!!.md)`java` $`\textcolor{green}{含筆記}`$
+32. [Oil Deposits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Oil%20Deposits.md)`java` $`\textcolor{green}{含筆記}`$
+33. [GCD](https://github.com/archie0732/c-solution/blob/main/onlinejudge/GCD.md)`java` $`\textcolor{green}{含筆記}`$
+34. [2 the 9s](https://github.com/archie0732/c-solution/blob/main/onlinejudge/2%20the%209s.md)`cpp` $`\textcolor{green}{含筆記}`$
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
