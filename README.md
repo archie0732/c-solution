@@ -43,6 +43,7 @@
 32. [Oil Deposits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Oil%20Deposits.md)`java` $`\textcolor{green}{含筆記}`$
 33. [GCD](https://github.com/archie0732/c-solution/blob/main/onlinejudge/GCD.md)`java` $`\textcolor{green}{含筆記}`$
 34. [2 the 9s](https://github.com/archie0732/c-solution/blob/main/onlinejudge/2%20the%209s.md)`cpp` $`\textcolor{green}{含筆記}`$
+35. [Satellites](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Satellites.md)`java` $`\textcolor{green}{含筆記}`$
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -107,6 +108,7 @@
 34. [Oil Deposits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Oil%20Deposits.md)`cpp` $`\textcolor{green}{含筆記}`$
 35. [ $` \textcolor{red}{Vacation}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vacation.md)`cpp` $`\textcolor{green}{含筆記}`$
 36. [GCD](https://github.com/archie0732/c-solution/blob/main/onlinejudge/GCD.md)`cpp` $`\textcolor{green}{含筆記}`$
+37. [Satellites](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Satellites.md)`java` $`\textcolor{green}{含筆記}`$
 
 
 
