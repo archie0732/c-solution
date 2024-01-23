@@ -1,4 +1,4 @@
-# can you slove it
+# Can you slove it
 
 [題目連結](https://vjudge.net/problem/UVA-10642)
 
