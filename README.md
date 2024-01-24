@@ -46,6 +46,7 @@
 35. [Satellites](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Satellites.md)`java` $`\textcolor{green}{含筆記}`$
 36. [Can you slove it](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Can%20you%20slove%20it.md)`cpp` $`\textcolor{green}{含筆記}`$
 37. [Fourth Point !!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fourth%20Point%20!!%20.md)`cpp` $`\textcolor{green}{含筆記}`$
+38. [Minesweeper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Minesweeper.md?plain=1)`cpp` $`\textcolor{green}{含筆記}`$
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -113,6 +114,7 @@
 37. [Satellites](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Satellites.md)`java` $`\textcolor{green}{含筆記}`$
 38. [Can you slove it](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Can%20you%20slove%20it.md)`cpp` $`\textcolor{green}{含筆記}`$
 39. [Fourth Point !!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fourth%20Point%20!!%20.md)`cpp` $`\textcolor{green}{含筆記}`$
+40. [Minesweeper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Minesweeper.md?plain=1)`cpp` $`\textcolor{green}{含筆記}`$
 
 
 
