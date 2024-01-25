@@ -73,6 +73,8 @@
 ### leetcode 
 **Medium**   
 1. [Longest Common Subsequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Common%20Subsequence.md)`java` `dp` `LCS` `基礎`
+
+
 **Hard**
 1. [Median of Two Sorted Arrays](https://github.com/archie0732/c-solution/blob/main/leetcode/Median%20of%20Two%20Sorted%20Arrays.md)`java`
 2. [Merge k Sorted Lists](https://github.com/archie0732/c-solution/blob/main/leetcode/Merge%20k%20Sorted%20Lists.md)`java`
