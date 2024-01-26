@@ -49,6 +49,7 @@
 38. [Minesweeper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Minesweeper.md?plain=1)`cpp` $`\textcolor{green}{含筆記}`$
 39. [ A mid-summer night's dream](https://github.com/archie0732/c-solution/blob/main/onlinejudge/A%20mid-summer%20night's%20dream.md)`cpp` $`\textcolor{green}{含筆記}`$
 40. [Tell me the frequencies!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Tell%20me%20the%20frequencies!.md)`cpp` $`\textcolor{green}{含筆記}`$ `字元與字串` `ASCII code`
+41. [Train Swapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Train%20Swapping.md)`cpp` $`\textcolor{green}{含筆記}`$ `泡沫排序`
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
