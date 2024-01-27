@@ -51,6 +51,7 @@
 40. [Tell me the frequencies!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Tell%20me%20the%20frequencies!.md)`cpp` $`\textcolor{green}{含筆記}`$ `字元與字串` `ASCII code`
 41. [Train Swapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Train%20Swapping.md)`cpp` $`\textcolor{green}{含筆記}`$ `泡沫排序`
 42. [Hardwood Species](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hardwood%20Species.md)`cpp` $`\textcolor{green}{含筆記}`$ `map` `統計`
+43. [Die Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Die%20Game.md)`cpp` $`\textcolor{green}{含筆記}`$ `vector` `空間`
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -126,6 +127,7 @@
 41. [ A mid-summer night's dream](https://github.com/archie0732/c-solution/blob/main/onlinejudge/A%20mid-summer%20night's%20dream.md)`cpp` $`\textcolor{green}{含筆記}`$
 42. [Train Swapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Train%20Swapping.md)`cpp` $`\textcolor{green}{含筆記}`$ `泡沫排序`
 43. [Hardwood Species](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hardwood%20Species.md)`cpp` $`\textcolor{green}{含筆記}`$ `map` `統計`
+44. [Die Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Die%20Game.md)`cpp` $`\textcolor{green}{含筆記}`$ `vector` `空間`
 
 
 
