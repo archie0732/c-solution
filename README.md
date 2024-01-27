@@ -52,6 +52,7 @@
 41. [Train Swapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Train%20Swapping.md)`cpp` $`\textcolor{green}{含筆記}`$ `泡沫排序`
 42. [Hardwood Species](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hardwood%20Species.md)`cpp` $`\textcolor{green}{含筆記}`$ `map` `統計`
 43. [Die Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Die%20Game.md)`cpp` $`\textcolor{green}{含筆記}`$ `vector` `空間`
+44. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map`
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -128,6 +129,7 @@
 42. [Train Swapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Train%20Swapping.md)`cpp` $`\textcolor{green}{含筆記}`$ `泡沫排序`
 43. [Hardwood Species](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hardwood%20Species.md)`cpp` $`\textcolor{green}{含筆記}`$ `map` `統計`
 44. [Die Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Die%20Game.md)`cpp` $`\textcolor{green}{含筆記}`$ `vector` `空間`
+45. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map`
 
 
 
