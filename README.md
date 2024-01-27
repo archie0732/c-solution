@@ -53,6 +53,7 @@
 42. [Hardwood Species](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hardwood%20Species.md)`cpp` $`\textcolor{green}{含筆記}`$ `map` `統計`
 43. [Die Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Die%20Game.md)`cpp` $`\textcolor{green}{含筆記}`$ `vector` `空間`
 44. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map`
+45. [Mutant Flatworld Explorers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mutant%20Flatworld%20Explorers.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `二為空間`
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -130,6 +131,7 @@
 43. [Hardwood Species](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hardwood%20Species.md)`cpp` $`\textcolor{green}{含筆記}`$ `map` `統計`
 44. [Die Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Die%20Game.md)`cpp` $`\textcolor{green}{含筆記}`$ `vector` `空間`
 45. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map`
+46. [Mutant Flatworld Explorers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mutant%20Flatworld%20Explorers.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `二為空間`
 
 
 
