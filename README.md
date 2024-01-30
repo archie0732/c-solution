@@ -55,6 +55,7 @@
 44. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map`
 45. [Mutant Flatworld Explorers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mutant%20Flatworld%20Explorers.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `二為空間`
 46. [Cola](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cola.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
+47. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -134,6 +135,7 @@
 45. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map`
 46. [Mutant Flatworld Explorers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mutant%20Flatworld%20Explorers.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `二為空間`
 47. [Cola](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cola.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
+48. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
 
 
 
