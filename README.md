@@ -82,6 +82,7 @@
 ### leetcode 
 **Medium**   
 1. [Longest Common Subsequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Common%20Subsequence.md)`java` `dp` `LCS` `基礎`
+2. [Sequential Digits](https://github.com/archie0732/c-solution/blob/main/leetcode/Sequential%20Digits.md) `cpp` `dp` `字串`
 
 
 **Hard**
