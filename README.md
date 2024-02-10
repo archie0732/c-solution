@@ -94,6 +94,7 @@
 3. [Minimum Deletions to Make Character Frequencies Unique](https://github.com/archie0732/c-solution/blob/main/leetcode/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.md) `cpp` `Hash table` `greedy`
 4. [Longest Substring Without Repeating Characters](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Substring%20Without%20Repeating%20Characters.md) `cpp` `Hash table` `搜尋` `set`
 5. [Sort Characters By Frequency](https://github.com/archie0732/c-solution/blob/main/leetcode/Sort%20Characters%20By%20Frequency.md) `cpp` `sort` `map` `Hash table`
+6. [Palindromic Substrings](https://github.com/archie0732/c-solution/blob/main/leetcode/Palindromic%20Substrings.md) `cpp` `DP` `字串`
 
 
 **Hard**
