@@ -96,6 +96,7 @@
 5. [Sort Characters By Frequency](https://github.com/archie0732/c-solution/blob/main/leetcode/Sort%20Characters%20By%20Frequency.md) `cpp` `sort` `map` `Hash table`
 6. [Palindromic Substrings](https://github.com/archie0732/c-solution/blob/main/leetcode/Palindromic%20Substrings.md) `cpp` `DP` `字串`
 7. [Longest Palindromic Substring](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Palindromic%20Substring.md) `cpp` `DP` `字串`
+8. [Zigzag Conversion](https://github.com/archie0732/c-solution/blob/main/leetcode/Zigzag%20Conversion.md) `cpp` `字串`
 
 
 **Hard**
