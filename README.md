@@ -100,6 +100,7 @@
 7. [Longest Palindromic Substring](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Palindromic%20Substring.md) `cpp` `DP` `字串`
 8. [Zigzag Conversion](https://github.com/archie0732/c-solution/blob/main/leetcode/Zigzag%20Conversion.md) `cpp` `字串`
 9. [Container With Most Water](https://github.com/archie0732/c-solution/blob/main/leetcode/Container%20With%20Most%20Water.md) `cpp` `greedy` `array`
+10. [Find First Palindromic String in the Array](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20First%20Palindromic%20String%20in%20the%20Array.md) `cpp` `array` `string`
 
 
 **Hard**
