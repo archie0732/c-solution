@@ -168,4 +168,4 @@
 3. [B班hw 6](https://github.com/archie0732/c-solution/blob/main/other/6.c)`c`
 
 
-#### 作者:神里綾華的狗(有問題歡迎來問)
+#### 作者: 里帆大師
