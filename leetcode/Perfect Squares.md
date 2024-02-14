@@ -26,6 +26,7 @@
 ......直到你要找的數字
 ```
 #### code
+* cpp
 ```cpp
 class Solution {
 public:
@@ -46,3 +47,24 @@ public:
     }
 };
 ```
+* js
+```js
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var numSquares = function(n) {
+    let dp = new Array(n+1);
+    dp[0] = 0;
+    dp[1] = 1;
+    for(let i=2;i<=n;i++){
+        let tem = 10000000000000;
+        for(let j=1;j*j<=i;j++){
+            tem = Math.min(tem,dp[i-j*j]);
+        }
+        dp[i] = tem+1;
+    }
+    return dp[n];
+};
+```
+
