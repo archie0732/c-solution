@@ -101,7 +101,8 @@
 8. [Zigzag Conversion](https://github.com/archie0732/c-solution/blob/main/leetcode/Zigzag%20Conversion.md) `cpp` `字串`
 9. [Container With Most Water](https://github.com/archie0732/c-solution/blob/main/leetcode/Container%20With%20Most%20Water.md) `cpp` `greedy` `array`
 10. [Find First Palindromic String in the Array](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20First%20Palindromic%20String%20in%20the%20Array.md) `cpp` `array` `string`
-11. [Rearrange Array Elements by Sign](https://github.com/archie0732/c-solution/blob/main/leetcode/Rearrange%20Array%20Elements%20by%20Sign.md) `cpp` `vector` 
+11. [Rearrange Array Elements by Sign](https://github.com/archie0732/c-solution/blob/main/leetcode/Rearrange%20Array%20Elements%20by%20Sign.md) `cpp` `vector`
+12. [Perfect Squares](https://github.com/archie0732/c-solution/blob/main/leetcode/Perfect%20Squares.md) `cpp` `dp` `bfs`
 
 
 **Hard**
