@@ -25,9 +25,7 @@
 (略
 ......直到你要找的數字
 ```
-![](https://i.pximg.net/img-original/img/2024/02/13/13/56/21/116013575_p0.png)
-
-
+#### code
 ```cpp
 class Solution {
 public:
