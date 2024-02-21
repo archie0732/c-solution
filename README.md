@@ -88,6 +88,7 @@
 2. [Palindrome Number](https://github.com/archie0732/c-solution/blob/main/leetcode/Palindrome%20Number.md) `cpp` `遍歷` `陣列`
 3. [Find the Index of the First Occurrence in a String](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md) `cpp` `字串`
 4. [Majority Element](https://github.com/archie0732/c-solution/blob/main/leetcode/Majority%20Element.md) `cpp` `map` `sort`
+5. 
 
 
 **Medium**   
@@ -103,6 +104,7 @@
 10. [Find First Palindromic String in the Array](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20First%20Palindromic%20String%20in%20the%20Array.md) `cpp` `array` `string`
 11. [Rearrange Array Elements by Sign](https://github.com/archie0732/c-solution/blob/main/leetcode/Rearrange%20Array%20Elements%20by%20Sign.md) `cpp` `vector`
 12. [Perfect Squares](https://github.com/archie0732/c-solution/blob/main/leetcode/Perfect%20Squares.md) `cpp` `js` `dp` `bfs`
+13. [Bitwise AND of Numbers Range](https://github.com/archie0732/c-solution/blob/main/leetcode/Bitwise%20AND%20of%20Numbers%20Range.cpp)`cpp``bit`
 
 
 **Hard**
