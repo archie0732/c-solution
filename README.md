@@ -88,7 +88,7 @@
 2. [Palindrome Number](https://github.com/archie0732/c-solution/blob/main/leetcode/Palindrome%20Number.md) `cpp` `遍歷` `陣列`
 3. [Find the Index of the First Occurrence in a String](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md) `cpp` `字串`
 4. [Majority Element](https://github.com/archie0732/c-solution/blob/main/leetcode/Majority%20Element.md) `cpp` `map` `sort`
-5. [Find the Town Judge　]()`cpp` `有向圖`
+5. [Find the Town Judge　](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20the%20Town%20Judge.cpp)`cpp` `有向圖`
 6. 
 
 
