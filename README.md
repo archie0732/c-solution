@@ -107,7 +107,8 @@
 11. [Rearrange Array Elements by Sign](https://github.com/archie0732/c-solution/blob/main/leetcode/Rearrange%20Array%20Elements%20by%20Sign.md) `cpp` `vector`
 12. [Perfect Squares](https://github.com/archie0732/c-solution/blob/main/leetcode/Perfect%20Squares.md) `cpp` `js` `dp` `bfs`
 13. [Bitwise AND of Numbers Range](https://github.com/archie0732/c-solution/blob/main/leetcode/Bitwise%20AND%20of%20Numbers%20Range.cpp)`cpp` `bit`
-14. [3Sum](https://github.com/archie0732/c-solution/blob/main/leetcode/3Sum.java) `java` `array` 
+14. [3Sum](https://github.com/archie0732/c-solution/blob/main/leetcode/3Sum.java) `java` `array`
+15. [Cheapest Flights Within K Stops](https://github.com/archie0732/c-solution/blob/main/leetcode/Cheapest%20Flights%20Within%20K%20Stops.cpp) `cpp` `bfs` `queue`
 
 
 **Hard**
