@@ -109,11 +109,13 @@
 13. [Bitwise AND of Numbers Range](https://github.com/archie0732/c-solution/blob/main/leetcode/Bitwise%20AND%20of%20Numbers%20Range.cpp)`cpp` `bit`
 14. [3Sum](https://github.com/archie0732/c-solution/blob/main/leetcode/3Sum.java) `java` `array`
 15. [Cheapest Flights Within K Stops](https://github.com/archie0732/c-solution/blob/main/leetcode/Cheapest%20Flights%20Within%20K%20Stops.cpp) `cpp` `bfs` `queue`
+16. [Longest Consecutive Sequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Consecutive%20Sequence.cpp)`cpp` `sort`
 
 
 **Hard**
 1. [Median of Two Sorted Arrays](https://github.com/archie0732/c-solution/blob/main/leetcode/Median%20of%20Two%20Sorted%20Arrays.md)`java`
 2. [Merge k Sorted Lists](https://github.com/archie0732/c-solution/blob/main/leetcode/Merge%20k%20Sorted%20Lists.md)`java`
+3. [Greatest Common Divisor Traversal](https://github.com/archie0732/c-solution/blob/main/leetcode/Greatest%20Common%20Divisor%20Traversal.cpp) `cpp` `dsu`
 ***
 ### online judge 
 1. [ $`\textcolor{red}{Vito's Family}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)`c++`
