@@ -110,6 +110,7 @@
 14. [3Sum](https://github.com/archie0732/c-solution/blob/main/leetcode/3Sum.java) `java` `array`
 15. [Cheapest Flights Within K Stops](https://github.com/archie0732/c-solution/blob/main/leetcode/Cheapest%20Flights%20Within%20K%20Stops.cpp) `cpp` `bfs` `queue`
 16. [Longest Consecutive Sequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Consecutive%20Sequence.cpp)`cpp` `sort`
+17. [Number of Provinces](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Provinces.cpp) `cpp` `union find` `dsu`
 
 
 **Hard**
