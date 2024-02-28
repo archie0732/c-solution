@@ -91,6 +91,7 @@
 5. [Find the Town Judge　](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20the%20Town%20Judge.cpp)`cpp` `有向圖`
 6. [Missing Number](https://github.com/archie0732/c-solution/blob/main/leetcode/Missing%20Number.java) `java` `map`
 7. [Climbing Stairs](https://github.com/archie0732/c-solution/blob/main/leetcode/Climbing%20Stairs.java) `java` `dp`
+8. [Pascal's Triangle II](https://github.com/archie0732/c-solution/blob/main/leetcode/Pascal's%20Triangle%20II.java) `java` `dp`
 
 
 
