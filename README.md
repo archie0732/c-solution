@@ -102,18 +102,19 @@
 4. [Longest Substring Without Repeating Characters](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Substring%20Without%20Repeating%20Characters.md) `cpp` `Hash table` `搜尋` `set`
 5. [Sort Characters By Frequency](https://github.com/archie0732/c-solution/blob/main/leetcode/Sort%20Characters%20By%20Frequency.md) `cpp` `sort` `map` `Hash table`
 6. [Palindromic Substrings](https://github.com/archie0732/c-solution/blob/main/leetcode/Palindromic%20Substrings.md) `cpp` `DP` `字串`
-7. [Longest Palindromic Substring](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Palindromic%20Substring.md) `cpp` `DP` `字串`
-8. [Zigzag Conversion](https://github.com/archie0732/c-solution/blob/main/leetcode/Zigzag%20Conversion.md) `cpp` `字串`
-9. [Container With Most Water](https://github.com/archie0732/c-solution/blob/main/leetcode/Container%20With%20Most%20Water.md) `cpp` `greedy` `array`
-10. [Find First Palindromic String in the Array](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20First%20Palindromic%20String%20in%20the%20Array.md) `cpp` `array` `string`
-11. [Rearrange Array Elements by Sign](https://github.com/archie0732/c-solution/blob/main/leetcode/Rearrange%20Array%20Elements%20by%20Sign.md) `cpp` `vector`
-12. [Perfect Squares](https://github.com/archie0732/c-solution/blob/main/leetcode/Perfect%20Squares.md) `cpp` `js` `dp` `bfs`
-13. [Bitwise AND of Numbers Range](https://github.com/archie0732/c-solution/blob/main/leetcode/Bitwise%20AND%20of%20Numbers%20Range.cpp)`cpp` `bit`
-14. [3Sum](https://github.com/archie0732/c-solution/blob/main/leetcode/3Sum.java) `java` `array`
-15. [Cheapest Flights Within K Stops](https://github.com/archie0732/c-solution/blob/main/leetcode/Cheapest%20Flights%20Within%20K%20Stops.cpp) `cpp` `bfs` `queue`
-16. [Longest Consecutive Sequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Consecutive%20Sequence.cpp)`cpp` `sort`
-17. [Number of Provinces](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Provinces.cpp) `cpp` `union find` `dsu`
-18. [Redundant Connection](https://github.com/archie0732/c-solution/blob/main/leetcode/Redundant%20Connection.cpp) `cpp` `union find` `dsu` `tree`
+7. [Longest Palindromic Substring](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Palindromic%20Substring.md) `cpp`  `字串`
+8. [Longest Palindromic Substring  $`\textcolor{red}{解法2}`$ ](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Palindromic%20Substring_2.md) `java` `dp`
+9. [Zigzag Conversion](https://github.com/archie0732/c-solution/blob/main/leetcode/Zigzag%20Conversion.md) `cpp` `字串`
+10. [Container With Most Water](https://github.com/archie0732/c-solution/blob/main/leetcode/Container%20With%20Most%20Water.md) `cpp` `greedy` `array`
+11. [Find First Palindromic String in the Array](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20First%20Palindromic%20String%20in%20the%20Array.md) `cpp` `array` `string`
+12. [Rearrange Array Elements by Sign](https://github.com/archie0732/c-solution/blob/main/leetcode/Rearrange%20Array%20Elements%20by%20Sign.md) `cpp` `vector`
+13. [Perfect Squares](https://github.com/archie0732/c-solution/blob/main/leetcode/Perfect%20Squares.md) `cpp` `js` `dp` `bfs`
+14. [Bitwise AND of Numbers Range](https://github.com/archie0732/c-solution/blob/main/leetcode/Bitwise%20AND%20of%20Numbers%20Range.cpp)`cpp` `bit`
+15. [3Sum](https://github.com/archie0732/c-solution/blob/main/leetcode/3Sum.java) `java` `array`
+16. [Cheapest Flights Within K Stops](https://github.com/archie0732/c-solution/blob/main/leetcode/Cheapest%20Flights%20Within%20K%20Stops.cpp) `cpp` `bfs` `queue`
+17. [Longest Consecutive Sequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Consecutive%20Sequence.cpp)`cpp` `sort`
+18. [Number of Provinces](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Provinces.cpp) `cpp` `union find` `dsu`
+19. [Redundant Connection](https://github.com/archie0732/c-solution/blob/main/leetcode/Redundant%20Connection.cpp) `cpp` `union find` `dsu` `tree`
 
 
 **Hard**
