@@ -117,6 +117,7 @@
 17. [Longest Consecutive Sequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Consecutive%20Sequence.cpp)`cpp` `sort`
 18. [Number of Provinces](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Provinces.cpp) `cpp` `union find` `dsu`
 19. [Redundant Connection](https://github.com/archie0732/c-solution/blob/main/leetcode/Redundant%20Connection.cpp) `cpp` `union find` `dsu` `tree`
+20. [Even Odd Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Even%20Odd%20Tree.java) `java` `tree`
 
 
 **Hard**
