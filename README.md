@@ -94,6 +94,7 @@
 8. [Pascal's Triangle II](https://github.com/archie0732/c-solution/blob/main/leetcode/Pascal's%20Triangle%20II.java) `java` `dp`
 9. [Same Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Same%20Tree.cpp)`java` `tree`
 10. [Symmetric Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Symmetric%20Tree.java)`java `tree`
+11. [Maximum Depth of Binary Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Maximum%20Depth%20of%20Binary%20Tree.java) `java` `tree`
 
 
 
