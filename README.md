@@ -126,7 +126,7 @@
 2. [Merge k Sorted Lists](https://github.com/archie0732/c-solution/blob/main/leetcode/Merge%20k%20Sorted%20Lists.md)`java`
 3. [Greatest Common Divisor Traversal](https://github.com/archie0732/c-solution/blob/main/leetcode/Greatest%20Common%20Divisor%20Traversal.cpp) `cpp` `dsu`
 ***
-### online judge 
+### Uva online judge 
 1. [ $`\textcolor{red}{Vito's Family}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)`c++`
 2. [Hashmat the Brave Warrior](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hashmat%20the%20Brave%20Warrior.md)`c++`
 3. [Rotating Sentences](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rotating%20Sentences.md)`c++`
@@ -176,6 +176,7 @@
 47. [Cola](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cola.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
 48. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
 49. [Largest Square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Largest%20Square.md)`cpp` $`\textcolor{green}{含筆記}`$ `二為空間
+50. [Ubiquitous Religions](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ubiquitous%20Religions.md) `cpp` `union-find`
 
 
 
