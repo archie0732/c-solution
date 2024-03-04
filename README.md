@@ -178,6 +178,7 @@
 49. [Largest Square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Largest%20Square.md)`cpp` $`\textcolor{green}{含筆記}`$ `二為空間
 50. [Ubiquitous Religions](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ubiquitous%20Religions.md) `cpp` `union-find`
 51. [Circum Triangle](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Circum%20Triangle.md) `java` `向量`
+52. [Pig-Latin](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Pig-Latin.md)`cpp` `string`
 
 
 
