@@ -181,6 +181,7 @@
 52. [Pig-Latin](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Pig-Latin.md)`cpp` `string`
 53. [Is This Integration ?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Is%20This%20Integration%20%3F.md)`cpp` `數論`
 54. [ The Largest/Smallest Box ... ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Largest-Smallest%20Box.md)`cpp` `數論`
+55. [Contest Scoreboard](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Contest%20Scoreboard.md)`cpp` `sort`
 
 
 
