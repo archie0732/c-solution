@@ -179,6 +179,7 @@
 50. [Ubiquitous Religions](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ubiquitous%20Religions.md) `cpp` `union-find`
 51. [Circum Triangle](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Circum%20Triangle.md) `java` `向量`
 52. [Pig-Latin](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Pig-Latin.md)`cpp` `string`
+53. [Is This Integration ?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Is%20This%20Integration%20%3F.md)`cpp` `數論`
 
 
 
