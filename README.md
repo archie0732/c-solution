@@ -187,6 +187,7 @@
 58. [Average Speed ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Average%20Speed.md)`cpp` `string`
 59. [Babelfish ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Babelfish.cpp)`cpp` `map`
 60. [Zeros and Ones](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Zeros%20and%20Ones.cpp) `cpp` `string`
+61. [Above Average ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Above%20Average.cpp)`cpp` 
 
 
 
