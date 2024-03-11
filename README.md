@@ -186,6 +186,7 @@
 57. [Mine Sweeper ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mine%20Sweeper.md)`cpp` `建表`
 58. [Average Speed ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Average%20Speed.md)`cpp` `string`
 59. [Babelfish ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Babelfish.cpp)`cpp` `map`
+60. [Zeros and Ones](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Zeros%20and%20Ones.cpp) `cpp` `string`
 
 
 
