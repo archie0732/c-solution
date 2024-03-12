@@ -189,6 +189,7 @@
 60. [Zeros and Ones](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Zeros%20and%20Ones.cpp) `cpp` `string`
 61. [Above Average ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Above%20Average.cpp)`cpp`
 62. [Simple Base Conversion ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Simple%20Base%20Conversion.cpp) `cpp` `string` `進位轉換`
+63. [Where is the Marble? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Where%20is%20the%20Marblec.cpp) `cpp` `sort`
 
 
 
