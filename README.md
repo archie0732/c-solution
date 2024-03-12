@@ -192,6 +192,7 @@
 63. [Where is the Marble? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Where%20is%20the%20Marblec.cpp) `cpp` `sort`
 64. [Combination Lock ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Combination%20Lock.md) `cpp` `****`
 65. [Geometry Paradox](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Geometry%20Paradox.cpp) `cpp` `****`
+66. [The Grazing Cow](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Grazing%20Cow.cpp)`cpp` `***` `橢圓形面積`
 
 
 
