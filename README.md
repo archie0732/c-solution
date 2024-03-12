@@ -194,6 +194,7 @@
 65. [Geometry Paradox](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Geometry%20Paradox.cpp) `cpp` `****`
 66. [The Grazing Cow](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Grazing%20Cow.cpp)`cpp` `***` `橢圓形面積`
 67. [F91](https://github.com/archie0732/c-solution/blob/main/onlinejudge/F-91.cpp) `cpp`
+68. [Count the factors](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Count%20the%20factors.cpp) `cpp` `質因數`
 
 
 
