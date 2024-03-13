@@ -196,6 +196,7 @@
 67. [F91](https://github.com/archie0732/c-solution/blob/main/onlinejudge/F-91.cpp) `cpp`
 68. [Count the factors](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Count%20the%20factors.cpp) `cpp` `質因數`
 69. [Ants](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ants.cpp) `cpp`
+70. [The Skyline Problem](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Skyline%20Problem.cpp)`cpp` `****`
 
 
 
