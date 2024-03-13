@@ -197,6 +197,7 @@
 68. [Count the factors](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Count%20the%20factors.cpp) `cpp` `質因數`
 69. [Ants](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ants.cpp) `cpp`
 70. [The Skyline Problem](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Skyline%20Problem.cpp)`cpp` `****`
+71. [Krakovia](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Krakovia.java) `java` `數組` `***`
 
 
 
