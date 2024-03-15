@@ -202,6 +202,7 @@
 73. [Simple Addition ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Simple%20Addition.cpp) `****` `cpp`
 74. [Bee](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bee.cpp)`cpp` `dp`
 75. [Necklace](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Necklace.cpp)`cpp` `***`
+76. [Searching for Nessy ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Searching%20for%20Nessy.md) `cpp`
 
 
 
