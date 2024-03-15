@@ -200,6 +200,7 @@
 71. [Krakovia](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Krakovia.java) `java` `數組` `***`
 72. [Throwing cards away I ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Throwing%20cards%20away%20I.cpp) `cpp` `vector`
 73. [Simple Addition ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Simple%20Addition.cpp) `****` `cpp`
+74. [Bee](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bee.cpp)`cpp` `dp`
 
 
 
