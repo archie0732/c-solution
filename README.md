@@ -213,6 +213,7 @@
 84. [Square Sums ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Square%20Sums.md)`cpp`
 85. [Soda Surpler ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Soda%20Surpler.md) `cpp`
 86. [Alternate Task](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Alternate%20Task.md) `cpp` `建表`
+87. [Jumping Mario ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jumping%20Mario.md) `java`
 
 
 
