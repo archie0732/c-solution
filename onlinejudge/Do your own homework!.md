@@ -1,4 +1,4 @@
-# Do your own homework!↵
+# Do your own homework
 
 [題目連結](https://vjudge.net/problem/UVA-11917)
 
