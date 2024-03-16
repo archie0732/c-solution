@@ -209,7 +209,8 @@
 80. [Gourmet Games](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Gourmet%20Games.cpp) `cpp`
 81. [Three-square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Three-square.md) `cpp` `three point`
 82. [The Huge One ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Huge%20One%20.md) `java` `BigInteger`
-83. [Cubes](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cubes.md)
+83. [Cubes](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cubes.md)`cpp` `***` `建表`
+84. [Square Sums ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Square%20Sums.md)`cpp`
 
 
 
