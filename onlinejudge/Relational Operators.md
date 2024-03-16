@@ -4,7 +4,11 @@
 
 
 * 用BigInteger 一下解決(java)
-![](https://i.pixiv.cat/img-original/img/2023/02/17/20/23/52/105466693_p0.jpg)
+
+
+![](https://pixiv.cat/105466693.jpg)
+
+
 #### code (java)
 
 
