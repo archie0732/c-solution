@@ -216,6 +216,7 @@
 87. [Jumping Mario ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jumping%20Mario.md) `java`
 88. [ Code Creator](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Code%20Creator.md) `cpp` `string`
 89. [Do your own homework](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Do%20your%20own%20homework!.md)`cpp` `map`
+90. [Robot Instructions ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Robot%20Instructions.md) `cpp` 
 
 
 
