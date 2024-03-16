@@ -208,6 +208,7 @@
 79. [Counting Chaos](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Counting%20Chaos.md) `cpp`
 80. [Gourmet Games](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Gourmet%20Games.cpp) `cpp`
 81. [Three-square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Three-square.md) `cpp` `three point`
+82. [The Huge One ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Huge%20One%20.md) `java` `BigInteger`
 
 
 
