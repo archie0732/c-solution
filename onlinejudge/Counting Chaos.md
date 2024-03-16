@@ -7,7 +7,7 @@
 
 #### code
 
-![](https://i.pixiv.cat/116494272.png)
+![](https://pixiv.cat/116494272.png)
 
 ```cpp
 
