@@ -215,6 +215,7 @@
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`$`\textcolor{green}{含筆記}`$
 2. [ $`\textcolor{red}{Primitive \,Problem}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 3. [B班hw 6](https://github.com/archie0732/c-solution/blob/main/other/6.c)`c`
+4. [關於java的BigInteger](https://github.com/archie0732/c-solution/blob/main/other/java_about_BigInteger.md) `java` `BigInteger`
 
 
 #### 作者: 里帆大師
