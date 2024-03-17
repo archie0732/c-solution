@@ -11,6 +11,7 @@
 
 ![](https://www.pixiv.cat/1166680630.jpg)
 
+![](https://pixiv.cat/116668063.jpg)
 
 ```cpp
 #include<iostream>
