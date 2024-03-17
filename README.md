@@ -55,7 +55,7 @@
 44. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map`
 45. [Mutant Flatworld Explorers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mutant%20Flatworld%20Explorers.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `二為空間`
 46. [Cola](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cola.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
-47. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
+47. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學` $`\textcolor{red}{陷阱}`$
 48. [Largest Square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Largest%20Square.md)`cpp` $`\textcolor{green}{含筆記}`$ `二為空間`
 
 **3星**  
