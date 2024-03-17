@@ -218,6 +218,7 @@
 89. [Do your own homework](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Do%20your%20own%20homework!.md)`cpp` `map`
 90. [Robot Instructions ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Robot%20Instructions.md) `cpp`
 91. [Count on Cantor](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Count%20on%20Cantor.md) `cpp` `建表`
+92. [Prime Cuts ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Prime%20Cuts.md) `cpp` `質數` `建表`
 
 
 
