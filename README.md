@@ -219,6 +219,7 @@
 90. [Robot Instructions ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Robot%20Instructions.md) `cpp`
 91. [Count on Cantor](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Count%20on%20Cantor.md) `cpp` `建表`
 92. [Prime Cuts ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Prime%20Cuts.md) `cpp` `質數` `建表`
+93. [Ugly Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ugly%20Numbers..md)`cpp`
 
 
 
