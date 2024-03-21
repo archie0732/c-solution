@@ -42,7 +42,7 @@
 31. [ $`\textcolor{red}{Sort! Sort!! and Sort!!!}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Sort!%20Sort!!%20and%20Sort!!!.md)`java` $`\textcolor{green}{含筆記}`$
 32. [Oil Deposits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Oil%20Deposits.md)`java` $`\textcolor{green}{含筆記}`$
 33. [GCD](https://github.com/archie0732/c-solution/blob/main/onlinejudge/GCD.md)`java` $`\textcolor{green}{含筆記}`$
-34. [2 the 9s](https://github.com/archie0732/c-solution/blob/main/onlinejudge/2%20the%209s.md)`cpp` $`\textcolor{green}{含筆記}`$
+34. [2 the 9s](https://github.com/archie0732/c-solution/blob/main/onlinejudge/2%20the%209s.md)`cpp` $`\textcolor{green}{含筆記}`$ `要注意單獨一個9`
 35. [Satellites](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Satellites.md)`java` $`\textcolor{green}{含筆記}`$
 36. [Can you slove it](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Can%20you%20slove%20it.md)`cpp` $`\textcolor{green}{含筆記}`$
 37. [Fourth Point !!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fourth%20Point%20!!%20.md)`cpp` $`\textcolor{green}{含筆記}`$
