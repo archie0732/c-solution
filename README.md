@@ -47,7 +47,7 @@
 36. [Can you slove it](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Can%20you%20slove%20it.md)`cpp` $`\textcolor{green}{含筆記}`$
 37. [Fourth Point !!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fourth%20Point%20!!%20.md)`cpp` $`\textcolor{green}{含筆記}`$
 38. [Minesweeper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Minesweeper.md?plain=1)`cpp` $`\textcolor{green}{含筆記}`$ `注意判斷式`
-39. [ A mid-summer night's dream](https://github.com/archie0732/c-solution/blob/main/onlinejudge/A%20mid-summer%20night's%20dream.md)`cpp` $`\textcolor{green}{含筆記}`$ 
+39. [ A mid-summer night's dream](https://github.com/archie0732/c-solution/blob/main/onlinejudge/A%20mid-summer%20night's%20dream.md)`cpp` $`\textcolor{green}{含筆記}`$ `兩個中位數之間的所有值`
 40. [Tell me the frequencies!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Tell%20me%20the%20frequencies!.md)`cpp` $`\textcolor{green}{含筆記}`$ `字元與字串` `ASCII code` `包含空白`
 41. [Train Swapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Train%20Swapping.md)`cpp` $`\textcolor{green}{含筆記}`$ `泡沫排序`
 42. [Hardwood Species](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hardwood%20Species.md)`cpp` $`\textcolor{green}{含筆記}`$ `map` `統計`
