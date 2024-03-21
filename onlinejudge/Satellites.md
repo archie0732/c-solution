@@ -66,3 +66,37 @@ public class Satellites {
     }
 }
 ```
+
+```cpp
+#include <iostream>
+#include <cmath>
+#include <string>
+
+#define ll long long 
+#define dou double
+#define PI 2*acos(0.0)
+
+using namespace std;
+
+int main() {
+    dou d, c;
+    string s;
+    
+    while(cin >> d >> c >> s){
+    	
+    	d += 6440; 
+    	// 60 min = 1 degree 
+    	if(s=="min")c = c/60;
+    	if(c>180)c-=180;
+    	dou radians = c * PI / 180.0;
+    
+    	// 1/2 * 2*r*radians
+   	 	dou arc = d*radians;
+    	dou chord = sqrt(2 * d * d - 2 * d * d * cos(radians));
+    
+    	printf("%.6f %.6f\n",arc,chord);
+    }
+    return 0;
+}
+
+```
