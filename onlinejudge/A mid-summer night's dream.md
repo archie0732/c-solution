@@ -33,7 +33,7 @@ public class A_mid_summer_nights_dream {
             }
             Arrays.sort(matrix);
 
-            long a1 = matrix[(a - 1) / 2];
+            long a1 = (n%2 == 0) ? matrix[(a - 1) / 2] : matrix[a/2];
             long a2 = matrix[(a / 2)];
             int ans = 0;
             long c = a2 - a1 + 1;
