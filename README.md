@@ -25,7 +25,7 @@
 14. [ Jolly Jumpers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jolly%20Jumpers.md)`cpp` $`\textcolor{green}{含筆記}`$
 15. [Doom’s Day Algorithm](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Doom%E2%80%99s%20Day%20Algorithm.md)`cpp` $`\textcolor{green}{含筆記}`$
 16. [The Hotel with Infinite Rooms](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Hotel%20with%20Infinite%20Rooms.md)`cpp` $`\textcolor{green}{含筆記}`$
-17. [498-bis](https://github.com/archie0732/c-solution/blob/main/onlinejudge/498-bis.md)`cpp` $`\textcolor{green}{含筆記}`$
+17. [498-bis](https://github.com/archie0732/c-solution/blob/main/onlinejudge/498-bis.md)`cpp` $`\textcolor{green}{含筆記}`$ `微分` `stringstream` `***`
 18. [odd sum](https://github.com/archie0732/c-solution/blob/main/onlinejudge/odd%20sum.md)`cpp` $`\textcolor{green}{含筆記}`$
 19. [Beat the Spread!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beat%20the%20Spread!.md)`cpp` $`\textcolor{green}{含筆記}`$
 20. [Square Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Square%20Numbers.md)`cpp` $`\textcolor{green}{含筆記}`$
