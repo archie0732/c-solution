@@ -29,7 +29,7 @@
 18. [odd sum](https://github.com/archie0732/c-solution/blob/main/onlinejudge/odd%20sum.md)`cpp` $`\textcolor{green}{含筆記}`$
 19. [Beat the Spread!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beat%20the%20Spread!.md)`cpp` $`\textcolor{green}{含筆記}`$
 20. [Square Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Square%20Numbers.md)`cpp` $`\textcolor{green}{含筆記}`$
-21. [Symmetric Matrix](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Symmetric%20Matrix.md)`cpp` $`\textcolor{green}{含筆記}`$
+21. [Symmetric Matrix](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Symmetric%20Matrix.md)`cpp` $`\textcolor{green}{含筆記}`$ `負數不是Symmetric Matrix`
 22. [B2-Sequence](https://github.com/archie0732/c-solution/blob/main/onlinejudge/B2-Sequence.md)`cpp` $`\textcolor{green}{含筆記}`$
 23. [Back to High School Physics](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Back%20to%20High%20School%20Physics.md)`cpp` $`\textcolor{green}{含筆記}`$
 24. [An Easy Problem!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/An%20Easy%20Problem!.md)`cpp` $`\textcolor{green}{含筆記}`$
