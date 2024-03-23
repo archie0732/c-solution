@@ -58,6 +58,7 @@
 47. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學` $`\textcolor{red}{陷阱}`$
 48. [Largest Square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Largest%20Square.md)`cpp` $`\textcolor{green}{含筆記}`$ `二為空間`
 49. [Bangla Numbers ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bangla%20Numbers.md) `都要要空4格(用printf)` `注意空格(數字與字母間的空格)` `只有 0 時要輸出`
+50. [Cheapest Base ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cheapest%20Base.md)`cpp` `進位轉換`
 
 **3星**  
 1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -223,6 +224,7 @@
 93. [Ugly Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ugly%20Numbers..md)`cpp`
 94. [ Rockabye Tobby](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rockabye%20Tobby%20.md)`cpp`
 95. [Bangla Numbers ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bangla%20Numbers.md)`cpp` `都要要空4格(用printf)` `注意空格(數字與字母間的空格)` `只有 0 時要輸出`
+96. [Cheapest Base ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cheapest%20Base.md)`cpp` `進位轉換`
 
 
 
