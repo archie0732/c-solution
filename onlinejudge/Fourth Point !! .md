@@ -84,3 +84,43 @@ int main(int argc, char const *argv[])
     return 0;
 }
 ```
+
+```cpp
+#include<bits/stdc++.h>
+
+using namespace std;
+
+
+int main(){
+
+	pair<double,double> p1,p2,p3,p4 ;
+	
+	while(cin>>p1.first>>p1.second>>p2.first>>p2.second>>p3.first>>p3.second>>p4.first>>p4.second){
+		
+		if(p1==p2)p2 = p4;
+		else if(p1 == p3)p3 = p4;
+		else if(p2 == p3){
+			swap(p1,p2);
+			swap(p3,p4);
+		}
+		else if(p2 == p4){
+			swap(p2,p1);
+		}
+		else if(p3==p4){
+			swap(p1,p3);
+		}
+		
+		double v1_x = p2.first - p1.first;
+		double v2_x = p3.first - p1.first;
+		double v1_y = p2.second - p1.second;
+		double v2_y = p3.second - p1.second;
+		
+		double ans_x = (v1_x+v2_x)+p1.first;
+		double ans_y = (v1_y+v2_y)+p1.second;
+		
+		printf("%.3f %.3f\n",ans_x,ans_y);
+	}
+
+	return 0;
+}
+```
