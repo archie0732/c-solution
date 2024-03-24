@@ -225,8 +225,8 @@
 94. [ Rockabye Tobby](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rockabye%20Tobby%20.md)`cpp`
 95. [Bangla Numbers ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bangla%20Numbers.md)`cpp` `都要要空4格(用printf)` `注意空格(數字與字母間的空格)` `只有 0 時要輸出`
 96. [Cheapest Base ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cheapest%20Base.md)`cpp` `進位轉換`
-97. [Inception](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Inception.md) `string`
-98. [Pixel Art ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Pixel%20Art.md) `map`
+97. [Inception](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Inception.md) `cpp` `string`
+98. [Pixel Art ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Pixel%20Art.md) `cpp` `map`
 
 
 
