@@ -231,6 +231,7 @@
 100. [Strategy Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Strategy%20Game.md) `cpp`
 101. [The book thief](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20book%20thief.md) `建表` `upper_bound` `****`
 102. [Cool Word](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cool%20Word.md) `cpp` `map`
+103. [Dangerous Dive](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Dangerous%20Dive.md) `cpp` `map`
 
 
 
