@@ -229,6 +229,7 @@
 98. [Pixel Art ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Pixel%20Art.md) `cpp` `map`
 99. [Alcoholic Pilots ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Alcoholic%20Pilots.md) `cpp` `****`
 100. [Strategy Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Strategy%20Game.md) `cpp`
+101. [The book thief](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20book%20thief.md) `建表` `upper_bound`
 
 
 
