@@ -95,7 +95,7 @@ int main(int argc, char const *argv[])
         {
             if (s[j].length() > i)
                 cout << s[j][i];
-            else
+            else if(j>0)
                 cout <<' ';
         }
         cout << endl;
