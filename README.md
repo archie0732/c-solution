@@ -55,7 +55,7 @@
 44. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map` **`****`**
 45. [Mutant Flatworld Explorers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mutant%20Flatworld%20Explorers.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `二為空間` **`第一行是他媽的座標`**
 46. [Cola](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cola.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
-47. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學` $`\textcolor{red}{陷阱}`$
+47. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學` $`\textcolor{red}{陷阱}`$ `a跟b不會按照大小排`
 48. [Largest Square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Largest%20Square.md)`cpp` $`\textcolor{green}{含筆記}`$ `二為空間`
 49. [Bangla Numbers ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bangla%20Numbers.md) `都要要空4格(用printf)` `注意空格(數字與字母間的空格)` `只有 0 時要輸出`
 50. [Cheapest Base ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cheapest%20Base.md)`cpp` `進位轉換` `****`
