@@ -1,4 +1,4 @@
-# Tell me the frequencies!
+# Train Swapping!
 
 [題目連結](https://vjudge.net/problem/UVA-10062)
 
