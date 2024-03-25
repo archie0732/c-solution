@@ -19,8 +19,8 @@
 8. [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
 9. [What's Cryptanalysis? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%E2%80%99s%20Cryptanalysis%3F.md)`cpp` $`\textcolor{green}{含筆記}`$ **` cin完後，要用getline去吃掉換行才能在換行 `**
 10. [Decode the Mad man](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Decode%20the%20Mad%20man.md)`cpp` $`\textcolor{green}{含筆記}`$ **`大小寫`**
-11. [Summing Digits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Summing%20Digits.md)`cpp` $`\textcolor{green}{含筆記}`$
-12. [Common Permutation](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Common%20Permutation.md)`cpp` $`\textcolor{green}{含筆記}`$
+11. [Summing Digits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Summing%20Digits.md)`cpp` $`\textcolor{green}{含筆記}`$ 
+12. [Common Permutation](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Common%20Permutation.md)`cpp` $`\textcolor{green}{含筆記}`$ **`同樣的字重複也要打上去`**
 13. [TEX Quotes](https://github.com/archie0732/c-solution/blob/main/onlinejudge/TEX%20Quotes.md)`cpp` $`\textcolor{green}{含筆記}`$
 14. [ Jolly Jumpers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jolly%20Jumpers.md)`cpp` $`\textcolor{green}{含筆記}`$
 15. [Doom’s Day Algorithm](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Doom%E2%80%99s%20Day%20Algorithm.md)`cpp` $`\textcolor{green}{含筆記}`$
