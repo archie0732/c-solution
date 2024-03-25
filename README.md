@@ -30,7 +30,7 @@
 19. [Beat the Spread!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beat%20the%20Spread!.md)`cpp` $`\textcolor{green}{含筆記}`$
 20. [Square Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Square%20Numbers.md)`cpp` $`\textcolor{green}{含筆記}`$
 21. [Symmetric Matrix](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Symmetric%20Matrix.md)`cpp` $`\textcolor{green}{含筆記}`$ **`負數不是Symmetric Matrix`**
-22. [B2-Sequence](https://github.com/archie0732/c-solution/blob/main/onlinejudge/B2-Sequence.md)`cpp` $`\textcolor{green}{含筆記}`$
+22. [B2-Sequence](https://github.com/archie0732/c-solution/blob/main/onlinejudge/B2-Sequence.md)`cpp` $`\textcolor{green}{含筆記}`$**`負數不是B2`**
 23. [Back to High School Physics](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Back%20to%20High%20School%20Physics.md)`cpp` $`\textcolor{green}{含筆記}`$
 24. [An Easy Problem!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/An%20Easy%20Problem!.md)`cpp` $`\textcolor{green}{含筆記}`$ **`****`** `a1+a2+a3+...+an 與 N-base a1a2a3a4...an有相同因數`
 25. [Fibonaccimal Base](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fibonaccimal%20Base.md)`cpp` $`\textcolor{green}{含筆記}`$
