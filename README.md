@@ -191,7 +191,7 @@
 60. [Zeros and Ones](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Zeros%20and%20Ones.cpp) `cpp` `string`
 61. [Above Average ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Above%20Average.cpp)`cpp`
 62. [Simple Base Conversion ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Simple%20Base%20Conversion.cpp) `cpp` `string` `進位轉換` **`uppercase` 或`可以用取餘(A)與除法(next)[短除法]來取得10->16`**
-63. [Where is the Marble? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Where%20is%20the%20Marblec.cpp) `cpp` `sort`
+63. [Where is the Marble? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Where%20is%20the%20Marblec.cpp) `cpp` `sort` `****`
 64. [Combination Lock ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Combination%20Lock.md) `cpp` `****`
 65. [Geometry Paradox](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Geometry%20Paradox.cpp) `cpp` `****`
 66. [The Grazing Cow](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Grazing%20Cow.cpp)`cpp` `***` `橢圓形面積`
