@@ -63,44 +63,31 @@ s2[3]s1[3]
 #### code 
 ![](https://github.com/archie0732/c-solution/blob/main/picture/ayaka008.jpg)
 ```cpp
-#include <iostream>
-#include <vector>
-#include <string>
-#define size 101
+#include<bits/stdc++.h>
 
 using namespace std;
 
-int main(int argc, char const *argv[])
-{
-    string s[size];//這裡的陣列不是長度，是行
-    int maxlenght = 0;
-    int n = 0;
-    //當輸入為\0結束
-    // getline 不同於cin 不會因為空格而結束(會將空格也當一個字串)
-    while (getline(cin, s[n]))
-    {
-        if (s[n].length() > maxlenght)
-        {
-            //找到最長的字串(其他小於她長度的要補空格)
-            maxlenght = s[n].length();
-        }
-        //換行
-        n++;
-    }
-    // j =行
-    // i =sj[i]第幾個字元
-    for (int i = 0; i < maxlenght; i++)
-    {
-        for (int j = n; j >= 0; j--)
-        {
-            if (s[j].length() > i)
-                cout << s[j][i];
-            else if(j>0)
-                cout <<' ';
-        }
-        cout << endl;
-    }
+int main(){
+	
+	vector<string> v;
+	string s;
+	int len=0;
+	
+	while(getline(cin,s)){
+		v.push_back(s);
+		int n = s.size();
+		len = max(n,len);	
+	}
+	
+	for(int i=0;i<len;i++){
+		for(int j=v.size()-1;j>=0;j--){
+			
+			if(v[j].size()>i)cout<<v[j][i];
+			else if(j>0)cout<<' ';
+		}
+		cout<<endl;
+	}
 
-    return 0;
+	return 0;
 }
 ```
