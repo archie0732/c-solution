@@ -14,7 +14,54 @@
 >>>都是偶數==>先小後大
 
 
-#### code (java)
+#### code (cpp/java)
+
+```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+bool cmp(pair<int, int> a, pair<int, int> b)
+{
+    if (a.second != b.second)
+        return a.second < b.second;
+    else if ((a.first % 2 == 1 || a.first % 2 == -1) && (b.first % 2 == 1 || b.first % 2 == -1))
+    {
+        return a.first > b.first;
+    }
+    else if (a.first % 2 == 0 && b.first % 2 == 0)
+        return a.first < b.first;
+    else
+        return a.first % 2 != 0;
+}
+
+int main()
+{
+    int n, d;
+    while (cin >> n >> d)
+    {
+        cout << n << " " << d << endl;
+
+        if (!(n + d))
+            return 0;
+        vector<pair<int, int>> v(n);
+
+        for (int i = 0; i < n; i++)
+        {
+            cin >> v[i].first;
+            v[i].second = v[i].first % d;
+        }
+        sort(v.begin(), v.end(), cmp);
+
+        for (auto it : v)
+        {
+            cout << it.first << endl;
+        }
+    }
+
+    return 0;
+}
+```
 
 ```java
     import java.util.*;
