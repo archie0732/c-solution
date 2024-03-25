@@ -236,6 +236,7 @@
 105. [I ❤ Pizza ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/I%20%E2%9D%A4%20Pizza%20.md) `cpp` `map`
 106. [ Beautiful Flag](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beautiful%20Flag.md)`cpp`
 107. [Nice Licence Plates ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Nice%20Licence%20Plates%20.md)`cpp`
+108. [10:6:2](https://github.com/archie0732/c-solution/blob/main/onlinejudge/10%3A6%3A2.md)`cpp`
 
 
 
