@@ -187,7 +187,7 @@
 56. [ Soundex](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Soundex.cpp)`cpp`
 57. [Mine Sweeper ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mine%20Sweeper.md)`cpp` `建表`
 58. [Average Speed ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Average%20Speed.md)`cpp` `string`
-59. [Babelfish ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Babelfish.cpp)`cpp` `map`
+59. [Babelfish ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Babelfish.cpp)`cpp` `map` `a與b不按大小排`
 60. [Zeros and Ones](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Zeros%20and%20Ones.cpp) `cpp` `string`
 61. [Above Average ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Above%20Average.cpp)`cpp`
 62. [Simple Base Conversion ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Simple%20Base%20Conversion.cpp) `cpp` `string` `進位轉換`
