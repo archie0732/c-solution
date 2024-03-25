@@ -24,6 +24,69 @@ base 就是從哪裡開始往上去找`N`
 
 #### code 
 
+* 2024/03/25 新版
+
+```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+
+    string s;
+
+    while (getline(cin, s))
+    {
+        int max_base = 0, sum = 0;
+        for (int i = 0; i < s.size(); i++)
+        {
+            int tem = 0;
+            if (s[i] >= '0' && s[i] <= '9')
+            {
+                tem = s[i] - '0';
+                sum += tem;
+            }
+            else if (s[i] >= 'A' && s[i] <= 'Z')
+            {
+                tem = s[i] - 'A' + 10;
+                sum += tem;
+            }
+            else if (s[i] >= 'a' && s[i] <= 'z')
+            {
+                tem = s[i] - 'a' + 36;
+                sum += tem;
+            }
+            else
+                continue;
+
+            max_base = max(max_base, tem);
+        }
+        // cout << "sum: " << sum << " max_base " << max_base << endl;
+        if (sum == 0)
+            cout << 2 << endl;
+        else
+        {
+            for (int i = max_base; i <= 62; i++)
+            {
+                if (i == 62)
+                {
+                    cout << "such number is impossible!" << endl;
+                    break;
+                }
+                else if (sum % i == 0)
+                {
+                    cout << i + 1 << endl;
+                    break;
+                }
+            }
+        }
+    }
+}
+```
+
+* 舊版
+
 ```cpp
 
 #include <iostream>
