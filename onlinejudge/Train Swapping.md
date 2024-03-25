@@ -1,6 +1,6 @@
 # Train Swapping!
 
-[題目連結](https://vjudge.net/problem/UVA-10062)
+[題目連結](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=235)
 
 
 
