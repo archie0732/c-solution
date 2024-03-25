@@ -193,7 +193,7 @@
 62. [Simple Base Conversion ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Simple%20Base%20Conversion.cpp) `cpp` `string` `進位轉換` **`uppercase` 或`可以用取餘(A)與除法(next)[短除法]來取得10->16`**
 63. [Where is the Marble? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Where%20is%20the%20Marblec.cpp) `cpp` `sort` `****`
 64. [Combination Lock ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Combination%20Lock.md) `cpp` `****`
-65. [Geometry Paradox](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Geometry%20Paradox.cpp) `cpp` `****`
+65. [Geometry Paradox](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Geometry%20Paradox.cpp) `cpp` `****` **`2a+2b = 2R 所以 兩個內接圓的半徑就是大圓的半徑`**
 66. [The Grazing Cow](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Grazing%20Cow.cpp)`cpp` `***` `橢圓形面積`
 67. [F91](https://github.com/archie0732/c-solution/blob/main/onlinejudge/F-91.cpp) `cpp`
 68. [Count the factors](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Count%20the%20factors.cpp) `cpp` `質因數`
