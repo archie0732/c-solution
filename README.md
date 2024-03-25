@@ -234,6 +234,7 @@
 103. [Dangerous Dive](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Dangerous%20Dive.md) `cpp` `map`
 104. [Largest Sum Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Largest%20Sum%20Game.md) `cpp` `遍歷`
 105. [I ❤ Pizza ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/I%20%E2%9D%A4%20Pizza%20.md) `cpp` `map`
+106. [ Beautiful Flag](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beautiful%20Flag.md)`cpp`
 
 
 
