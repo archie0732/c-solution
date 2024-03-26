@@ -1,6 +1,6 @@
 # Cool Word
 
-[題目連結]()
+[題目連結](https://vjudge.net/problem/UVA-12820)
 
 * 用map
 
