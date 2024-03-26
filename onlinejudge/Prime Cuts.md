@@ -1,7 +1,7 @@
 # Prime Cuts 
 
 
-[題目連結]()
+[題目連結](https://vjudge.net/problem/UVA-406)
 
 
 
