@@ -207,7 +207,7 @@
 76. [Searching for Nessy ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Searching%20for%20Nessy.md) `cpp`
 77. [Maximum Product](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Maximum%20Product.md) `cpp` `ll 不可以設置為負數`
 78. [Relational Operators ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Relational%20Operators.md) `cpp` `java` `BigInteger`
-79. [Counting Chaos](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Counting%20Chaos.md) `cpp` `****`
+79. [Counting Chaos](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Counting%20Chaos.md) `cpp` `****` **`不包含當下時間是對稱` `大於1440時歸零`**
 80. [Gourmet Games](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Gourmet%20Games.cpp) `cpp`
 81. [Three-square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Three-square.md) `cpp` `three point`
 82. [The Huge One ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Huge%20One%20.md) `java` `BigInteger`
