@@ -239,6 +239,7 @@
 108. [10:6:2](https://github.com/archie0732/c-solution/blob/main/onlinejudge/10%3A6%3A2.md)`cpp`
 109. [ Zapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Zapping.md) `cpp`
 110. [February 29](https://github.com/archie0732/c-solution/blob/main/onlinejudge/February%2029%20.md)`cpp` `***`
+111. [Save Setu](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Save%20Setu.md)`cpp`
 
 
 
