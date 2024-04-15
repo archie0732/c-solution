@@ -240,7 +240,7 @@
 109. [ Zapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Zapping.md) `cpp`
 110. [February 29](https://github.com/archie0732/c-solution/blob/main/onlinejudge/February%2029%20.md)`cpp` `***`
 111. [Save Setu](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Save%20Setu.md)`cpp`
-112. [$`\textcolor{red}{Last Digit} ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Last%20Digit.md)`循環` `***`
+112. [$`\textcolor{red}{Last Digit}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Last%20Digit.md)`循環` `***`
 
 
 
