@@ -122,6 +122,7 @@
 18. [Number of Provinces](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Provinces.cpp) `cpp` `union find` `dsu`
 19. [Redundant Connection](https://github.com/archie0732/c-solution/blob/main/leetcode/Redundant%20Connection.cpp) `cpp` `union find` `dsu` `tree`
 20. [Even Odd Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Even%20Odd%20Tree.java) `java` `tree`
+21. [Add One Row to Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Add%20One%20Row%20to%20Tree.md) `java` `tree` `bfs`
 
 
 **Hard**
