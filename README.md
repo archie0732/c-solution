@@ -97,6 +97,7 @@
 9. [Same Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Same%20Tree.cpp)`java` `tree`
 10. [Symmetric Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Symmetric%20Tree.java)`java `tree`
 11. [Maximum Depth of Binary Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Maximum%20Depth%20of%20Binary%20Tree.java) `java` `tree`
+12. [Binary Tree Inorder Traversal](https://github.com/archie0732/c-solution/blob/main/leetcode/Binary%20Tree%20Inorder%20Traversal.md) `java` `tree` `inorder traversal` 
 
 
 
