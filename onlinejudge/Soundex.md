@@ -1,3 +1,35 @@
+```cpp
+#include<bits/stdc++.h>
+
+using namespace std;
+
+string board="BFPVCGJKQSXZDTLMNR";
+
+int main(){
+
+	string s;
+	int last=-1;
+	while(getline(cin,s)){
+		string ans="";
+		for(int i=0;i<s.size();i++){
+			auto it = board.find(s[i]);
+		 	if(it>=0&&it<4 && (last>=4||last==-1))ans+="1";
+			else if(it>=4&&it<=11 && (last>11||last<4))ans+="2";
+			else if((it==12||it==13)&&last!=12&&last!=13)ans+="3";
+			else if(it==14&&last!=14)ans+="4";
+			else if((it==15||it==16) && last!=15 && last!=16)ans+="5";
+			else if(it==17&&last!=17)ans+="6";
+		
+			last = it;
+		}
+		cout<<ans<<endl;
+	}
+
+}
+```
+
+
+```cpp
 #include<iostream>
 #include<sstream>
 #include<algorithm>
@@ -93,3 +125,4 @@ int main()
 
     return 0;
 }
+```
