@@ -125,6 +125,7 @@
 21. [Add One Row to Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Add%20One%20Row%20to%20Tree.md) `java` `tree` `bfs`
 22. [Smallest String Starting From Leaf](https://github.com/archie0732/c-solution/blob/main/leetcode/Smallest%20String%20Starting%20From%20Leaf.md)`java` `bfs` `binary tree`
 23. [Validate Binary Search Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Validate%20Binary%20Search%20Tree.md) `java` `binary tree`
+24. [Number of Islands](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Islands.md) `cpp` `遍歷`
 
 
 **Hard**
