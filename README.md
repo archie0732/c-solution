@@ -225,9 +225,9 @@
 89. [Do your own homework](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Do%20your%20own%20homework!.md)`cpp` `map`
 90. [Robot Instructions ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Robot%20Instructions.md) `cpp`
 91. [Count on Cantor](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Count%20on%20Cantor.md) `cpp` `建表`
-92. [Prime Cuts ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Prime%20Cuts.md) `cpp` `質數` `建表`
-93. [Ugly Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ugly%20Numbers..md)`cpp`
-94. [ Rockabye Tobby](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rockabye%20Tobby%20.md)`cpp`
+92. [Prime Cuts ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Prime%20Cuts.md) `cpp` `質數` `建表` `*`
+93. [Ugly Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ugly%20Numbers..md)`cpp` `*`
+94. [ Rockabye Tobby](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rockabye%20Tobby%20.md)`cpp` `*`
 95. [Bangla Numbers ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bangla%20Numbers.md)`cpp` `都要要空4格(用printf)` `注意空格(數字與字母間的空格)` `只有 0 時要輸出`
 96. [Cheapest Base ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cheapest%20Base.md)`cpp` `進位轉換`
 97. [Inception](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Inception.md) `cpp` `string`
