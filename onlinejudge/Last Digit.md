@@ -34,3 +34,51 @@ int main(){
 	return 0;
 }
 ```
+
+
+#### 暴力解
+
+```cpp
+#include<bits/stdc++.h>
+#define ll long long
+
+using namespace std;
+
+
+int main(){
+
+    vector<int>ans(101,0);
+
+
+    ll sum=0;
+    for(int i=1;i<100;i++){
+
+        ll tem=1;
+        for(int j=1;j<=i;j++){
+            tem*=i;
+            tem%=10;
+        }
+        sum+=tem;
+        sum%=10;
+        ans[i]=sum;
+    }
+
+    //for(auto it :ans)cout<<it<<endl;
+
+    string n;
+    while(cin>>n && n!="0"){
+
+        int a = n[n.size() - 1]-'0';
+        
+        if(n.size()>=2){
+            a =(n[n.size()-2]-'0')*10;
+            a+=n[n.size()-1]-'0';
+        }
+
+        cout<<ans[a]<<endl;
+
+    }
+
+    return 0;
+}
+```
