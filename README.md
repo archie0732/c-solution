@@ -15,7 +15,6 @@
 4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 5. [ $`\textcolor{red}{We\, \,can\,\, say\,\, 11}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
 6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability%3F.md)`cpp` **`機率有可能是0`**
-7. [Polynomial Showdown](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Polynomial%20Showdown.md)`cpp` $`\textcolor{green}{含筆記}`$
 8. [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
 9. [What's Cryptanalysis? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%E2%80%99s%20Cryptanalysis%3F.md)`cpp` $`\textcolor{green}{含筆記}`$ **` cin完後，要用getline去吃掉換行才能在換行 `**
 10. [Decode the Mad man](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Decode%20the%20Mad%20man.md)`cpp` $`\textcolor{green}{含筆記}`$ **`大小寫`**
