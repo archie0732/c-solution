@@ -1,6 +1,6 @@
 # Bangla Numbers 
 
-[題目連結]()
+[題目連結](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=13&page=show_problem&problem=1042)
 
 * 都要要空4格(用printf)
 * 注意空格(數字與字母間的空格)
