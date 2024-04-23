@@ -60,7 +60,6 @@
 50. [Cheapest Base ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cheapest%20Base.md)`cpp` `進位轉換` `****`
 
 **3星**  
-1. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
 2. [Bar Code](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bar%20Code.md)`cpp` $`\textcolor{green}{含筆記}`$
 3. [ $` \textcolor{red}{Vacation}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vacation.md)`cpp` $`\textcolor{green}{含筆記}`$
 
