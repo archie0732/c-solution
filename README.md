@@ -124,6 +124,7 @@
 22. [Smallest String Starting From Leaf](https://github.com/archie0732/c-solution/blob/main/leetcode/Smallest%20String%20Starting%20From%20Leaf.md)`java` `bfs` `binary tree`
 23. [Validate Binary Search Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Validate%20Binary%20Search%20Tree.md) `java` `binary tree`
 24. [Number of Islands](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Islands.md) `cpp` `遍歷`
+25. [Compare Version Numbers](https://github.com/archie0732/c-solution/blob/main/leetcode/165.%20Compare%20Version%20Numbers.md)`cpp`
 
 
 **Hard**
@@ -245,6 +246,7 @@
 111. [Save Setu](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Save%20Setu.md)`cpp`
 112. [$`\textcolor{red}{Last Digit}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Last%20Digit.md)`循環` `***`
 113. [One-Two-Three](https://github.com/archie0732/c-solution/blob/main/onlinejudge/One-Two-Three.md) `cpp`
+114. 
 
 
 
