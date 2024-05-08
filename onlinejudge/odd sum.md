@@ -46,3 +46,35 @@ int main(int argc, char const *argv[])
     return 0;
 }
 ```
+
+
+##### 5/8 更新
+
+```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    int front, back, t, turn = 1;
+    cin >> t;
+    ;
+    while (t--) {
+        cout << "Case " << turn++ << ": ";
+        cin >> front >> back;
+        if (front > back) swap(front, back);
+
+        front = front % 2 == 0 ? front + 1 : front;
+        back = back % 2 == 0 ? back - 1 : back;
+
+        int ans = 0;
+        for (int i = front; i <= back; i += 2) {
+            ans += i;
+        }
+
+        cout << ans << endl;
+    }
+
+    return 0;
+}
+```
