@@ -97,6 +97,7 @@
 11. [Maximum Depth of Binary Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Maximum%20Depth%20of%20Binary%20Tree.java) `java` `tree`
 12. [Binary Tree Inorder Traversal](https://github.com/archie0732/c-solution/blob/main/leetcode/Binary%20Tree%20Inorder%20Traversal.md) `java` `tree` `inorder traversal`
 13. [Sum of All Subset XOR Totals](https://github.com/archie0732/c-solution/blob/main/leetcode/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.md) `java` `math` `subarray`
+14. [Relative Ranks](https://github.com/archie0732/c-solution/blob/main/leetcode/Relative%20Ranks.md)`cpp` `sort`
 
 
 
