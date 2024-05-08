@@ -16,6 +16,10 @@
 
 #### code 
 
+
+
+
+
 ```cpp
 #include<iostream>
 #include<vector>
@@ -59,5 +63,52 @@ int main(int argc, char const* argv[])
   }
 
   return 0;
+}
+```
+
+
+#### 5/8 更新
+
+```cpp
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int slove(int num,int add){
+
+    int res = num;
+    
+    num+=add;
+
+    while(num >= 3){
+        int left = num%3;
+
+        res+=num / 3;
+
+        num = num / 3 + left;
+    }
+
+    if(num<add){
+        return -1;
+    }
+
+    return res;
+}
+
+
+int main(){
+
+    int n;
+
+    while(cin>>n){
+        
+        int ans = slove(n,0);
+
+        ans = ans>=slove(n,1)? ans : slove(n,1)>=slove(n,2)?slove(n,1):slove(n,2);
+
+        cout<<ans<<endl;
+    }
+
+    return 0;
 }
 ```
