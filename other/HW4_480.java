@@ -68,13 +68,13 @@ class Teacher extends Person {
 
 }
 
-class ClassManager extends Person {
+class PU_Class extends Person {
     private String className="資工一A";
     private String[] course={"程設","進階程設","物件導向"};
     private List<Student> students;
     private Teacher teacher;
 
-    public ClassManager(String name, String className, Teacher teacher) {
+    public PU_Class(String name, String className, Teacher teacher) {
         super(name);
         this.className = className;
         this.students = new ArrayList<>();
@@ -189,7 +189,7 @@ public class HW4_480 {
         Teacher teacher = new Teacher(teacherName, teacherHeight, teacherWeight);
 
         
-        ClassManager classManager = new ClassManager("資工一A", "資工一A", teacher);
+        PU_Class classManager = new PU_Class("資工一A", "資工一A", teacher);
 
         
         for (Student student : students) {
