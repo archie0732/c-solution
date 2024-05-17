@@ -38,7 +38,7 @@ int main(int argc, char const *argv[])
         // 位移 =  1/2 * a * (2*t)^2
         //     = 2 * a * t ^ 2
 
-        cout << floor(2 * v * a) << endl;
+        cout << 2 * v * a << endl;
     }
     
     return 0;
