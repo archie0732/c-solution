@@ -2,7 +2,6 @@
 ![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
 
 
-最近有點忙，有些還沒放上來，預計寒假會全部放上來
 
 >[!Note]
 >### 請用`Ctrl+F` $`\textcolor{red}{輸入題目名稱來查題目}`$
