@@ -130,6 +130,7 @@
 25. [Number of Islands](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Islands.md) `cpp` `遍歷`
 26. [Compare Version Numbers](https://github.com/archie0732/c-solution/blob/main/leetcode/165.%20Compare%20Version%20Numbers.md)`cpp`
 27. [Generate Parentheses](https://github.com/archie0732/c-solution/blob/main/leetcode/22.%20Generate%20Parentheses.md) `cpp` `backtrace` `dp`
+28. [Subarray Sums Divisible by K](https://github.com/archie0732/c-solution/blob/main/leetcode/974.%20Subarray%20Sums%20Divisible%20by%20K.md)`cpp` `math` `map`
 
 
 **Hard**
