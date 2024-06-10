@@ -131,6 +131,7 @@
 26. [Compare Version Numbers](https://github.com/archie0732/c-solution/blob/main/leetcode/165.%20Compare%20Version%20Numbers.md)`cpp`
 27. [Generate Parentheses](https://github.com/archie0732/c-solution/blob/main/leetcode/22.%20Generate%20Parentheses.md) `cpp` `backtrace` `dp`
 28. [Subarray Sums Divisible by K](https://github.com/archie0732/c-solution/blob/main/leetcode/974.%20Subarray%20Sums%20Divisible%20by%20K.md)`cpp` `math` `map`
+29. [Swap Nodes in Pairs](https://github.com/archie0732/c-solution/blob/main/leetcode/24.%20Swap%20Nodes%20in%20Pairs.md) `java` `ListNode`
 
 
 **Hard**
