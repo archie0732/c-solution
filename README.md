@@ -2,10 +2,10 @@
 ![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
 
 ### 更新日誌
-* 2023-10-07 加入解題註解 
-* 2023-12-12 加入對題目的分類(像是`greedy` `math`)
-* 2024-01-02 加入leetcode 難度分別
-* 2024-6-17 更新 :leetcode(2024-06-17以後的解題)將加入題號 
+* 2023-10-07 更新: 加入解題註解 
+* 2023-12-12 更新: 加入對題目的分類(像是`greedy` `math`)
+* 2024-01-02 更新: 加入leetcode 難度分別
+* 2024-06-17 更新: leetcode(2024-06-17以後的解題)將加入題號 
 
 
 >[!Note]
