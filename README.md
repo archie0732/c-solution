@@ -1,7 +1,7 @@
 # 將解完的題目放在這裡（from 2023 11)
 ![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
 
-### 更新日誌
+### 更新日誌(不含增加題目)
 * 2023-10-07 更新: 加入解題註解
 * 2023-12-12 更新: 加入對題目的分類(像是`greedy` `math`)
 * 2024-01-02 更新: 加入leetcode 難度分別
