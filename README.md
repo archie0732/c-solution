@@ -1,6 +1,7 @@
 # 將解完的題目放在這裡（from 2023 11)
 ![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
 
+* 6/17 更新 leetcode(2024-06-17的解題將加入題號) 
 
 
 >[!Note]
