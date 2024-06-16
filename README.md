@@ -138,6 +138,7 @@
 1. [Median of Two Sorted Arrays](https://github.com/archie0732/c-solution/blob/main/leetcode/Median%20of%20Two%20Sorted%20Arrays.md)`java`
 2. [Merge k Sorted Lists](https://github.com/archie0732/c-solution/blob/main/leetcode/Merge%20k%20Sorted%20Lists.md)`java`
 3. [Greatest Common Divisor Traversal](https://github.com/archie0732/c-solution/blob/main/leetcode/Greatest%20Common%20Divisor%20Traversal.cpp) `cpp` `dsu`
+4. [330. Patching Array](https://github.com/archie0732/c-solution/blob/main/leetcode/330.%20Patching%20Array.md)`cpp` `math` `greedy` `*****`
 ***
 ### Uva online judge 
 1. [ $`\textcolor{red}{Vito's Family}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)`c++`
