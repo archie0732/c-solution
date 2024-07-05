@@ -142,6 +142,7 @@
 30. [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://github.com/archie0732/c-solution/blob/main/leetcode/2192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.md)`cpp` `java` `碩樸 DAG` `dfs`
 31. [38. Count and Say](https://github.com/archie0732/c-solution/blob/main/leetcode/38.%20Count%20and%20Say.md)`cpp` `string`
 32. [2181. Merge Nodes in Between Zeros](https://github.com/archie0732/c-solution/blob/main/leetcode/2181.%20Merge%20Nodes%20in%20Between%20Zeros.md)`ListNode` `java`
+33. [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/archie0732/c-solution/blob/main/leetcode/2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.md)`java` `ListNode`
 
 
 **Hard**
