@@ -1,0 +1,31 @@
+# Find the Winner of the Circular Game
+
+
+[題目連結](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08)
+
+```cpp
+
+class Solution {
+public:
+    int findTheWinner(int n, int k) {
+        queue<int> q;
+        for(int i=1;i<=n;i++){
+            q.push(i);
+        }
+
+        int turn = 0;
+        while(q.size()>1){
+            turn++;
+            int cur = q.front();
+            q.pop();
+            if(turn!=k){
+                q.push(cur);
+            }
+            else{
+                turn=0;
+            }
+        }
+        return q.front();
+    }
+};
+```
