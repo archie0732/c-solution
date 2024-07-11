@@ -144,7 +144,7 @@
 32. [2181. Merge Nodes in Between Zeros](https://github.com/archie0732/c-solution/blob/main/leetcode/2181.%20Merge%20Nodes%20in%20Between%20Zeros.md)`ListNode` `java`
 33. [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/archie0732/c-solution/blob/main/leetcode/2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.md)`java` `ListNode`
 34. [1823. Find the Winner of the Circular Game](https://github.com/archie0732/c-solution/blob/main/leetcode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md)`cpp` `queue`
-
+35. [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/archie0732/c-solution/blob/main/leetcode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)`cpp` `stack`
 
 **Hard**
 1. [Median of Two Sorted Arrays](https://github.com/archie0732/c-solution/blob/main/leetcode/Median%20of%20Two%20Sorted%20Arrays.md)`java`
