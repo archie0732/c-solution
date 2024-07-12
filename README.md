@@ -145,6 +145,7 @@
 33. [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/archie0732/c-solution/blob/main/leetcode/2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.md)`java` `ListNode`
 34. [1823. Find the Winner of the Circular Game](https://github.com/archie0732/c-solution/blob/main/leetcode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md)`cpp` `queue`
 35. [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/archie0732/c-solution/blob/main/leetcode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)`cpp` `stack`
+36. [1717. Maximum Score From Removing Substrings](https://github.com/archie0732/c-solution/blob/main/leetcode/1717.%20Maximum%20Score%20From%20Removing%20Substrings.md)`python` `stack`
 
 **Hard**
 1. [Median of Two Sorted Arrays](https://github.com/archie0732/c-solution/blob/main/leetcode/Median%20of%20Two%20Sorted%20Arrays.md)`java`
