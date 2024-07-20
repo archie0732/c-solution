@@ -88,6 +88,7 @@
 11. [Erase First or Second Letter](https://github.com/archie0732/c-solution/blob/main/codeforce/Erase%20First%20or%20Second%20Letter.md)`c++` `greedy` $`\textcolor{green}{含筆記\quad易}`$
 12. [Least Product](https://github.com/archie0732/c-solution/blob/main/codeforce/Least%20Product.md)`c++` `math` $`\textcolor{green}{含筆記\quad易}`$
 13. [Only Pluses](https://github.com/archie0732/c-solution/blob/main/codeforce/Only%20Pluses.md)`cpp` `math`
+14. [Test of Love](https://github.com/archie0732/c-solution/blob/main/codeforce/Test%20of%20Love.md)`cpp` `dp` `greedy`
  ***
 
    
