@@ -283,4 +283,4 @@
 4. [關於java的BigInteger](https://github.com/archie0732/c-solution/blob/main/other/java_about_BigInteger.md) `java` `BigInteger`
 
 
-#### 作者: 里帆大師
+#### 作者: archie0732
