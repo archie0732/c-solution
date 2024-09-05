@@ -150,6 +150,7 @@
 36. [1717. Maximum Score From Removing Substrings](https://github.com/archie0732/c-solution/blob/main/leetcode/1717.%20Maximum%20Score%20From%20Removing%20Substrings.md)`python` `stack`
 37. [1894. Find the Student that Will Replace the Chalk](https://github.com/archie0732/c-solution/blob/main/leetcode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)`python` `math`
 38. [89. Gray Code](https://github.com/archie0732/c-solution/blob/main/leetcode/89.%20Gray%20Code.md)`cpp` `gray code`
+39. [2028. Find Missing Observations](https://github.com/archie0732/c-solution/blob/main/leetcode/2028.%20Find%20Missing%20Observations.md)`python` `math`
 
 **Hard**
 1. [Median of Two Sorted Arrays](https://github.com/archie0732/c-solution/blob/main/leetcode/Median%20of%20Two%20Sorted%20Arrays.md)`java`
