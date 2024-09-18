@@ -1,23 +1,29 @@
 # 將解完的題目放在這裡（from 2023 11)
+
 ![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
 
-### 更新日誌(不含增加題目)
+## 更新日誌(不含增加題目)
+
 * 2023-10-07 更新: 加入解題註解
 * 2023-12-12 更新: 加入對題目的分類(像是`greedy` `math`)
 * 2024-01-02 更新: 加入leetcode 難度分別
 * 2024-02-12 更新: 為`cpe`的必考題(49)擴展專區，並補齊註解
 * 2024-05-20 更新: 修復因為`online judge`更新後某些過不了的code
-* 2024-06-17 更新: leetcode(2024-06-17以後的解題)將加入題號 
-
+* 2024-06-17 更新: leetcode(2024-06-17以後的解題)將加入題號
 
 >[!Note]
 >### 請用`Ctrl+F` $`\textcolor{red}{輸入題目名稱來查題目}`$
 
-
-
 ## 分類 ($`\textcolor{red}{紅色題目}`$*須注意時間複雜度*)
+
+## 演算法
+
+1. [KMP]('./algorthim/KMP.md')
+
 ## CPE 歷屆
-**1星**   
+
+- 一星
+
 1. [ $`\textcolor{red}{Vito's Family}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)`c++`
 2. [Hashmat the Brave Warrior](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hashmat%20the%20Brave%20Warrior.md)`c++` $`\textcolor{green}{超簡單}`$
 3. [Rotating Sentences](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rotating%20Sentences.md)`c++`$`\textcolor{green}{含筆記}`$

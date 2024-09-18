@@ -1,0 +1,1 @@
+{"name":"Local: osu_mania","url":"d:\\c-solution\\codeforce\\osu_mania.py","tests":[{"id":1726406619684,"input":"3\n4\n#...\n.#..\n..#.\n...#\n2\n.#..\n.#..\n1\n...#\n","output":"4 3 2 1 \n2 2 \n4 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c-solution\\codeforce\\osu_mania.py","group":"local","local":true}
