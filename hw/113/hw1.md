@@ -66,6 +66,9 @@
 <details>
 <summary>ans</summary>
 
+![image](https://github.com/user-attachments/assets/127a5ef6-7158-443f-a159-3fa7df54c6c9)
+
+
 ```cpp
 #include<stdio.h>
 int main(){
