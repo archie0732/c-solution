@@ -65,7 +65,11 @@
 
 <details>
 <summary>ans</summary>
+
 ```cpp
-// 還未公布喔
+#include<stdio.h>
+int main(){
+  // 答案還未公布喔，加油!
+}
 ```
 </details>
