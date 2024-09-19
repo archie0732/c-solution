@@ -1,6 +1,6 @@
-# 作業1
+# homework 1
 
-## q
+## the question
 
 請建立 C 程式計算下列運算式的值，如下所示：
 
