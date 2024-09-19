@@ -1,0 +1,1 @@
+{"name":"Local: Legs","url":"d:\\c-solution\\codeforce\\Legs.py","tests":[{"id":1726655112413,"input":"3\n2\n6\n8\n","output":"1\n2\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c-solution\\codeforce\\Legs.py","group":"local","local":true}
