@@ -1,3 +1,4 @@
-a = [1] + [0] * 10 + [1]
+a = [[] for _ in range(10)]
 
+a[1].append(10)
 print(a)
