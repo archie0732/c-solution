@@ -4,17 +4,18 @@
 
 ## 更新日誌(不含增加題目)
 
-* 2023-10-07 更新: 加入解題註解
-* 2023-12-12 更新: 加入對題目的分類(像是`greedy` `math`)
-* 2024-01-02 更新: 加入leetcode 難度分別
-* 2024-02-12 更新: 為`cpe`的必考題(49)擴展專區，並補齊註解
-* 2024-05-20 更新: 修復因為`online judge`更新後某些過不了的code
-* 2024-06-17 更新: leetcode(2024-06-17以後的解題)將加入題號
+- 2023-10-07 更新: 加入解題註解
+- 2023-12-12 更新: 加入對題目的分類(像是`greedy` `math`)
+- 2024-01-02 更新: 加入 leetcode 難度分別
+- 2024-02-12 更新: 為`cpe`的必考題(49)擴展專區，並補齊註解
+- 2024-05-20 更新: 修復因為`online judge`更新後某些過不了的 code
+- 2024-06-17 更新: leetcode(2024-06-17 以後的解題)將加入題號
 
->[!Note]
->### 請用`Ctrl+F` $`\textcolor{red}{輸入題目名稱來查題目}`$
+> [!Note]
+>
+> ### 請用`Ctrl+F` $`\textcolor{red}{輸入題目名稱來查題目}`$
 
-## 分類 ($`\textcolor{red}{紅色題目}`$*須注意時間複雜度*)
+## 分類 ($`\textcolor{red}{紅色題目}`$_須注意時間複雜度_)
 
 ## 演算法
 
@@ -29,58 +30,59 @@
 3. [Rotating Sentences](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rotating%20Sentences.md)`c++`$`\textcolor{green}{含筆記}`$
 4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 5. [ $`\textcolor{red}{We\, \,can\,\, say\,\, 11}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
-6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability%3F.md)`cpp` **`機率有可能是0`**
-8. [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
-9. [What's Cryptanalysis? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%E2%80%99s%20Cryptanalysis%3F.md)`cpp` $`\textcolor{green}{含筆記}`$ **` cin完後，要用getline去吃掉換行才能在換行 `**
-10. [Decode the Mad man](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Decode%20the%20Mad%20man.md)`cpp` $`\textcolor{green}{含筆記}`$ **`大小寫`**
-11. [Summing Digits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Summing%20Digits.md)`cpp` $`\textcolor{green}{含筆記}`$ 
-12. [Common Permutation](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Common%20Permutation.md)`cpp` $`\textcolor{green}{含筆記}`$ **`同樣的字重複也要打上去`**
-13. [TEX Quotes](https://github.com/archie0732/c-solution/blob/main/onlinejudge/TEX%20Quotes.md)`cpp` $`\textcolor{green}{含筆記}`$
-14. [ Jolly Jumpers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jolly%20Jumpers.md)`cpp` $`\textcolor{green}{含筆記}`$
-15. [Doom’s Day Algorithm](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Doom%E2%80%99s%20Day%20Algorithm.md)`cpp` $`\textcolor{green}{含筆記}`$
-16. [The Hotel with Infinite Rooms](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Hotel%20with%20Infinite%20Rooms.md)`cpp` $`\textcolor{green}{含筆記}`$
-17. [498-bis](https://github.com/archie0732/c-solution/blob/main/onlinejudge/498-bis.md)`cpp` $`\textcolor{green}{含筆記}`$ `微分` `stringstream` `***`
-18. [odd sum](https://github.com/archie0732/c-solution/blob/main/onlinejudge/odd%20sum.md)`cpp` $`\textcolor{green}{含筆記}`$
-19. [Beat the Spread!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beat%20the%20Spread!.md)`cpp` $`\textcolor{green}{含筆記}`$
-20. [Square Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Square%20Numbers.md)`cpp` $`\textcolor{green}{含筆記}`$
-21. [Symmetric Matrix](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Symmetric%20Matrix.md)`cpp` $`\textcolor{green}{含筆記}`$ **`負數不是Symmetric Matrix`**
-22. [B2-Sequence](https://github.com/archie0732/c-solution/blob/main/onlinejudge/B2-Sequence.md)`cpp` $`\textcolor{green}{含筆記}`$**`負數不是B2`**
-23. [Back to High School Physics](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Back%20to%20High%20School%20Physics.md)`cpp` $`\textcolor{green}{含筆記}`$ **`x/0 不存在，要找另解`**
-24. [An Easy Problem!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/An%20Easy%20Problem!.md)`cpp` $`\textcolor{green}{含筆記}`$ **`****`** `a1+a2+a3+...+an 與 N-base a1a2a3a4...an有相同因數`
-25. [Fibonaccimal Base](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fibonaccimal%20Base.md)`cpp` $`\textcolor{green}{含筆記}`$
-26. [Funny Encryption Method](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Funny%20Encryption%20Method.md)`cpp` $`\textcolor{green}{含筆記}`$
-27. [Parity](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Parity.md)`cpp` $`\textcolor{green}{含筆記}`$
-28. [$`\textcolor{red}{Divide, But Not Quite Conquer}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Divide%2C%20But%20Not%20Quite%20Conquer.md) `cpp` $`\textcolor{green}{含筆記}`$ **`<=1不算`**
-29. [All You Need Is Love](https://github.com/archie0732/c-solution/blob/main/onlinejudge/All%20You%20Need%20Is%20Love.md)`cpp` $`\textcolor{green}{含筆記}`$`****` **`二進為找gcd`**
-30. [ $`\textcolor{red}{ Simply Emirp}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Simply%20Emirp.md)`cpp` $`\textcolor{green}{含筆記}`$ `注意!!反過來跟正面相同不算`
-31. [ $`\textcolor{red}{Sort! Sort!! and Sort!!!}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Sort!%20Sort!!%20and%20Sort!!!.md)`java` $`\textcolor{green}{含筆記}`$ **`負數的餘數是負數，所以在考慮積數時要想到-1`**
-32. [Oil Deposits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Oil%20Deposits.md)`java` $`\textcolor{green}{含筆記}`$
-33. [GCD](https://github.com/archie0732/c-solution/blob/main/onlinejudge/GCD.md)`java` $`\textcolor{green}{含筆記}`$
-34. [2 the 9s](https://github.com/archie0732/c-solution/blob/main/onlinejudge/2%20the%209s.md)`cpp` $`\textcolor{green}{含筆記}`$ **`要注意單獨一個9`**
-35. [Satellites](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Satellites.md)`java` $`\textcolor{green}{含筆記}`$ `60 min = 1 degree` `要注意超過180度`
-36. [Can you slove it](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Can%20you%20slove%20it.md)`cpp` $`\textcolor{green}{含筆記}`$ `注意 0 0`
-37. [Fourth Point !!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fourth%20Point%20!!%20.md)`cpp` $`\textcolor{green}{含筆記}`$
-38. [Minesweeper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Minesweeper.md?plain=1)`cpp` $`\textcolor{green}{含筆記}`$ `注意判斷式`
-39. [ A mid-summer night's dream](https://github.com/archie0732/c-solution/blob/main/onlinejudge/A%20mid-summer%20night's%20dream.md)`cpp` $`\textcolor{green}{含筆記}`$ `兩個中位數之間的所有值`
-40. [Tell me the frequencies!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Tell%20me%20the%20frequencies!.md)`cpp` $`\textcolor{green}{含筆記}`$ `字元與字串` `ASCII code` `包含空白`
-41. [Train Swapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Train%20Swapping.md)`cpp` $`\textcolor{green}{含筆記}`$ `泡沫排序`
-42. [Hardwood Species](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hardwood%20Species.md)`cpp` $`\textcolor{green}{含筆記}`$ `map` `統計` **`int 與 int 的除只會輸出int`**
-43. [Die Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Die%20Game.md)`cpp` $`\textcolor{green}{含筆記}`$ `vector` `空間`
-44. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map` **`****`**
-45. [Mutant Flatworld Explorers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mutant%20Flatworld%20Explorers.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `二為空間` **`第一行是他媽的座標`**
-46. [Cola](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cola.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
-47. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學` $`\textcolor{red}{陷阱}`$ `a跟b不會按照大小排`
-48. [Largest Square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Largest%20Square.md)`cpp` $`\textcolor{green}{含筆記}`$ `二為空間`
-49. [Bangla Numbers ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bangla%20Numbers.md) `都要要空4格(用printf)` `注意空格(數字與字母間的空格)` `只有 0 時要輸出`
-50. [Cheapest Base ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cheapest%20Base.md)`cpp` `進位轉換` `****`
+6. [What is the Probability?](`./onlinejudge/What is the Probability.md`)`cpp` **`機率有可能是0`**
+7. [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
+8. [What's Cryptanalysis? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%E2%80%99s%20Cryptanalysis%3F.md)`cpp` $`\textcolor{green}{含筆記}`$ **`cin完後，要用getline去吃掉換行才能在換行`**
+9. [Decode the Mad man](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Decode%20the%20Mad%20man.md)`cpp` $`\textcolor{green}{含筆記}`$ **`大小寫`**
+10. [Summing Digits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Summing%20Digits.md)`cpp` $`\textcolor{green}{含筆記}`$
+11. [Common Permutation](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Common%20Permutation.md)`cpp` $`\textcolor{green}{含筆記}`$ **`同樣的字重複也要打上去`**
+12. [TEX Quotes](https://github.com/archie0732/c-solution/blob/main/onlinejudge/TEX%20Quotes.md)`cpp` $`\textcolor{green}{含筆記}`$
+13. [ Jolly Jumpers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Jolly%20Jumpers.md)`cpp` $`\textcolor{green}{含筆記}`$
+14. [Doom’s Day Algorithm](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Doom%E2%80%99s%20Day%20Algorithm.md)`cpp` $`\textcolor{green}{含筆記}`$
+15. [The Hotel with Infinite Rooms](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Hotel%20with%20Infinite%20Rooms.md)`cpp` $`\textcolor{green}{含筆記}`$
+16. [498-bis](https://github.com/archie0732/c-solution/blob/main/onlinejudge/498-bis.md)`cpp` $`\textcolor{green}{含筆記}`$ `微分` `stringstream` `***`
+17. [odd sum](https://github.com/archie0732/c-solution/blob/main/onlinejudge/odd%20sum.md)`cpp` $`\textcolor{green}{含筆記}`$
+18. [Beat the Spread!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Beat%20the%20Spread!.md)`cpp` $`\textcolor{green}{含筆記}`$
+19. [Square Numbers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Square%20Numbers.md)`cpp` $`\textcolor{green}{含筆記}`$
+20. [Symmetric Matrix](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Symmetric%20Matrix.md)`cpp` $`\textcolor{green}{含筆記}`$ **`負數不是Symmetric Matrix`**
+21. [B2-Sequence](https://github.com/archie0732/c-solution/blob/main/onlinejudge/B2-Sequence.md)`cpp` $`\textcolor{green}{含筆記}`$**`負數不是B2`**
+22. [Back to High School Physics](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Back%20to%20High%20School%20Physics.md)`cpp` $`\textcolor{green}{含筆記}`$ **`x/0 不存在，要找另解`**
+23. [An Easy Problem!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/An%20Easy%20Problem!.md)`cpp` $`\textcolor{green}{含筆記}`$ **`\*\***`** `a1+a2+a3+...+an 與 N-base a1a2a3a4...an 有相同因數`
+24. [Fibonaccimal Base](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fibonaccimal%20Base.md)`cpp` $`\textcolor{green}{含筆記}`$
+25. [Funny Encryption Method](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Funny%20Encryption%20Method.md)`cpp` $`\textcolor{green}{含筆記}`$
+26. [Parity](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Parity.md)`cpp` $`\textcolor{green}{含筆記}`$
+27. [$`\textcolor{red}{Divide, But Not Quite Conquer}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Divide%2C%20But%20Not%20Quite%20Conquer.md) `cpp` $`\textcolor{green}{含筆記}`$ **`<=1不算`**
+28. [All You Need Is Love](https://github.com/archie0732/c-solution/blob/main/onlinejudge/All%20You%20Need%20Is%20Love.md)`cpp` $`\textcolor{green}{含筆記}`$`****` **`二進為找gcd`**
+29. [ $`\textcolor{red}{ Simply Emirp}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Simply%20Emirp.md)`cpp` $`\textcolor{green}{含筆記}`$ `注意!!反過來跟正面相同不算`
+30. [ $`\textcolor{red}{Sort! Sort!! and Sort!!!}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Sort!%20Sort!!%20and%20Sort!!!.md)`java` $`\textcolor{green}{含筆記}`$ **`負數的餘數是負數，所以在考慮積數時要想到-1`**
+31. [Oil Deposits](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Oil%20Deposits.md)`java` $`\textcolor{green}{含筆記}`$
+32. [GCD](https://github.com/archie0732/c-solution/blob/main/onlinejudge/GCD.md)`java` $`\textcolor{green}{含筆記}`$
+33. [2 the 9s](https://github.com/archie0732/c-solution/blob/main/onlinejudge/2%20the%209s.md)`cpp` $`\textcolor{green}{含筆記}`$ **`要注意單獨一個9`**
+34. [Satellites](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Satellites.md)`java` $`\textcolor{green}{含筆記}`$ `60 min = 1 degree` `要注意超過180度`
+35. [Can you slove it](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Can%20you%20slove%20it.md)`cpp` $`\textcolor{green}{含筆記}`$ `注意 0 0`
+36. [Fourth Point !!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Fourth%20Point%20!!%20.md)`cpp` $`\textcolor{green}{含筆記}`$
+37. [Minesweeper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Minesweeper.md?plain=1)`cpp` $`\textcolor{green}{含筆記}`$ `注意判斷式`
+38. [ A mid-summer night's dream](https://github.com/archie0732/c-solution/blob/main/onlinejudge/A%20mid-summer%20night's%20dream.md)`cpp` $`\textcolor{green}{含筆記}`$ `兩個中位數之間的所有值`
+39. [Tell me the frequencies!](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Tell%20me%20the%20frequencies!.md)`cpp` $`\textcolor{green}{含筆記}`$ `字元與字串` `ASCII code` `包含空白`
+40. [Train Swapping](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Train%20Swapping.md)`cpp` $`\textcolor{green}{含筆記}`$ `泡沫排序`
+41. [Hardwood Species](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hardwood%20Species.md)`cpp` $`\textcolor{green}{含筆記}`$ `map` `統計` **`int 與 int 的除只會輸出int`**
+42. [Die Game](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Die%20Game.md)`cpp` $`\textcolor{green}{含筆記}`$ `vector` `空間`
+43. [Eb Alto Saxophone Player](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Eb%20Alto%20Saxophone%20Player.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `map` **`\*\***`\*\*
+44. [Mutant Flatworld Explorers](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mutant%20Flatworld%20Explorers.md)`cpp` $`\textcolor{green}{含筆記}`$ `建表` `二為空間` **`第一行是他媽的座標`**
+45. [Cola](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cola.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
+46. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學` $`\textcolor{red}{陷阱}`$ `a跟b不會按照大小排`
+47. [Largest Square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Largest%20Square.md)`cpp` $`\textcolor{green}{含筆記}`$ `二為空間`
+48. [Bangla Numbers ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bangla%20Numbers.md) `都要要空4格(用printf)` `注意空格(數字與字母間的空格)` `只有 0 時要輸出`
+49. [Cheapest Base ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cheapest%20Base.md)`cpp` `進位轉換` `****`
 
-**3星**  
+**3 星**  
 2. [Bar Code](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bar%20Code.md)`cpp` $`\textcolor{green}{含筆記}`$  
 3. [ $` \textcolor{red}{Vacation}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vacation.md)`cpp` $`\textcolor{green}{含筆記}`$
 
-***
+---
 
 ### codeforce
+
 1. [Prefix Flip -Easy Version](https://github.com/archie0732/c-solution/blob/main/Prefix%20Flip%20-Easy%20Version.md)`c++`
 2. [Balanced Tunnel](https://github.com/archie0732/c-solution/blob/main/codeforce/Balanced%20Tunnel.md#balanced-tunnel)`c++`
 3. [Berland Crossword](https://github.com/archie0732/c-solution/blob/main/codeforce/Berland%20Crossword.md)`c++`
@@ -95,17 +97,18 @@
 12. [Least Product](https://github.com/archie0732/c-solution/blob/main/codeforce/Least%20Product.md)`c++` `math` $`\textcolor{green}{含筆記\quad易}`$
 13. [Only Pluses](https://github.com/archie0732/c-solution/blob/main/codeforce/Only%20Pluses.md)`cpp` `math`
 14. [Test of Love](https://github.com/archie0732/c-solution/blob/main/codeforce/Test%20of%20Love.md)`cpp` `dp` `greedy`
- ***
 
-   
- 
-### leetcode 
-**Easy**  
+---
+
+### leetcode
+
+**Easy**
+
 1. [Two Sum](https://github.com/archie0732/c-solution/blob/main/leetcode/Two%20Sum.md) `java` `cpp` `分類`
 2. [Palindrome Number](https://github.com/archie0732/c-solution/blob/main/leetcode/Palindrome%20Number.md) `cpp` `遍歷` `陣列`
 3. [Find the Index of the First Occurrence in a String](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md) `cpp` `字串`
 4. [Majority Element](https://github.com/archie0732/c-solution/blob/main/leetcode/Majority%20Element.md) `cpp` `map` `sort`
-5. [Find the Town Judge　](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20the%20Town%20Judge.cpp)`cpp` `有向圖`
+5. [Find the Town Judge 　](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20the%20Town%20Judge.cpp)`cpp` `有向圖`
 6. [Missing Number](https://github.com/archie0732/c-solution/blob/main/leetcode/Missing%20Number.java) `java` `map`
 7. [Climbing Stairs](https://github.com/archie0732/c-solution/blob/main/leetcode/Climbing%20Stairs.java) `java` `dp`
 8. [Pascal's Triangle II](https://github.com/archie0732/c-solution/blob/main/leetcode/Pascal's%20Triangle%20II.java) `java` `dp`
@@ -116,55 +119,58 @@
 13. [Sum of All Subset XOR Totals](https://github.com/archie0732/c-solution/blob/main/leetcode/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.md) `java` `math` `subarray`
 14. [Relative Ranks](https://github.com/archie0732/c-solution/blob/main/leetcode/Relative%20Ranks.md)`cpp` `sort`
 
+**Medium**
 
-
-**Medium**   
 1. [Longest Common Subsequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Common%20Subsequence.md)`java` `dp` `LCS` `基礎`
 2. [Sequential Digits](https://github.com/archie0732/c-solution/blob/main/leetcode/Sequential%20Digits.md) `cpp` `dp` `字串`
 3. [Minimum Deletions to Make Character Frequencies Unique](https://github.com/archie0732/c-solution/blob/main/leetcode/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.md) `cpp` `Hash table` `greedy`
-5. [Longest Substring Without Repeating Characters](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Substring%20Without%20Repeating%20Characters.md) `cpp` `Hash table` `搜尋` `set`
-6. [Sort Characters By Frequency](https://github.com/archie0732/c-solution/blob/main/leetcode/Sort%20Characters%20By%20Frequency.md) `cpp` `sort` `map` `Hash table`
-7. [Palindromic Substrings](https://github.com/archie0732/c-solution/blob/main/leetcode/Palindromic%20Substrings.md) `cpp` `DP` `字串`
-8. [Longest Palindromic Substring](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Palindromic%20Substring.md) `cpp`  `字串`
-9. [Longest Palindromic Substring  $`\textcolor{red}{解法2}`$ ](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Palindromic%20Substring_2.md) `java` `dp`
-10. [Zigzag Conversion](https://github.com/archie0732/c-solution/blob/main/leetcode/Zigzag%20Conversion.md) `cpp` `字串`
-11. [Container With Most Water](https://github.com/archie0732/c-solution/blob/main/leetcode/Container%20With%20Most%20Water.md) `cpp` `greedy` `array`
-12. [Find First Palindromic String in the Array](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20First%20Palindromic%20String%20in%20the%20Array.md) `cpp` `array` `string`
-13. [Rearrange Array Elements by Sign](https://github.com/archie0732/c-solution/blob/main/leetcode/Rearrange%20Array%20Elements%20by%20Sign.md) `cpp` `vector`
-14. [Perfect Squares](https://github.com/archie0732/c-solution/blob/main/leetcode/Perfect%20Squares.md) `cpp` `js` `dp` `bfs`
-15. [Bitwise AND of Numbers Range](https://github.com/archie0732/c-solution/blob/main/leetcode/Bitwise%20AND%20of%20Numbers%20Range.cpp)`cpp` `bit`
-16. [3Sum](https://github.com/archie0732/c-solution/blob/main/leetcode/3Sum.java) `java` `array`
-17. [Cheapest Flights Within K Stops](https://github.com/archie0732/c-solution/blob/main/leetcode/Cheapest%20Flights%20Within%20K%20Stops.cpp) `cpp` `bfs` `queue`
-18. [Longest Consecutive Sequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Consecutive%20Sequence.cpp)`cpp` `sort`
-19. [Number of Provinces](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Provinces.cpp) `cpp` `union find` `dsu`
-20. [Redundant Connection](https://github.com/archie0732/c-solution/blob/main/leetcode/Redundant%20Connection.cpp) `cpp` `union find` `dsu` `tree`
-21. [Even Odd Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Even%20Odd%20Tree.java) `java` `tree`
-22. [Add One Row to Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Add%20One%20Row%20to%20Tree.md) `java` `tree` `bfs`
-23. [Smallest String Starting From Leaf](https://github.com/archie0732/c-solution/blob/main/leetcode/Smallest%20String%20Starting%20From%20Leaf.md)`java` `bfs` `binary tree`
-24. [Validate Binary Search Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Validate%20Binary%20Search%20Tree.md) `java` `binary tree`
-25. [Number of Islands](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Islands.md) `cpp` `遍歷`
-26. [Compare Version Numbers](https://github.com/archie0732/c-solution/blob/main/leetcode/165.%20Compare%20Version%20Numbers.md)`cpp`
-27. [Generate Parentheses](https://github.com/archie0732/c-solution/blob/main/leetcode/22.%20Generate%20Parentheses.md) `cpp` `backtrace` `dp`
-28. [Subarray Sums Divisible by K](https://github.com/archie0732/c-solution/blob/main/leetcode/974.%20Subarray%20Sums%20Divisible%20by%20K.md)`cpp` `math` `map`
-29. [Swap Nodes in Pairs](https://github.com/archie0732/c-solution/blob/main/leetcode/24.%20Swap%20Nodes%20in%20Pairs.md) `java` `ListNode`
-30. [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://github.com/archie0732/c-solution/blob/main/leetcode/2192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.md)`cpp` `java` `碩樸 DAG` `dfs`
-31. [38. Count and Say](https://github.com/archie0732/c-solution/blob/main/leetcode/38.%20Count%20and%20Say.md)`cpp` `string`
-32. [2181. Merge Nodes in Between Zeros](https://github.com/archie0732/c-solution/blob/main/leetcode/2181.%20Merge%20Nodes%20in%20Between%20Zeros.md)`ListNode` `java`
-33. [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/archie0732/c-solution/blob/main/leetcode/2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.md)`java` `ListNode`
-34. [1823. Find the Winner of the Circular Game](https://github.com/archie0732/c-solution/blob/main/leetcode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md)`cpp` `queue`
-35. [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/archie0732/c-solution/blob/main/leetcode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)`cpp` `stack`
-36. [1717. Maximum Score From Removing Substrings](https://github.com/archie0732/c-solution/blob/main/leetcode/1717.%20Maximum%20Score%20From%20Removing%20Substrings.md)`python` `stack`
-37. [1894. Find the Student that Will Replace the Chalk](https://github.com/archie0732/c-solution/blob/main/leetcode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)`python` `math`
-38. [89. Gray Code](https://github.com/archie0732/c-solution/blob/main/leetcode/89.%20Gray%20Code.md)`cpp` `gray code`
-39. [2028. Find Missing Observations](https://github.com/archie0732/c-solution/blob/main/leetcode/2028.%20Find%20Missing%20Observations.md)`python` `math`
+4. [Longest Substring Without Repeating Characters](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Substring%20Without%20Repeating%20Characters.md) `cpp` `Hash table` `搜尋` `set`
+5. [Sort Characters By Frequency](https://github.com/archie0732/c-solution/blob/main/leetcode/Sort%20Characters%20By%20Frequency.md) `cpp` `sort` `map` `Hash table`
+6. [Palindromic Substrings](https://github.com/archie0732/c-solution/blob/main/leetcode/Palindromic%20Substrings.md) `cpp` `DP` `字串`
+7. [Longest Palindromic Substring](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Palindromic%20Substring.md) `cpp` `字串`
+8. [Longest Palindromic Substring $`\textcolor{red}{解法2}`$ ](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Palindromic%20Substring_2.md) `java` `dp`
+9. [Zigzag Conversion](https://github.com/archie0732/c-solution/blob/main/leetcode/Zigzag%20Conversion.md) `cpp` `字串`
+10. [Container With Most Water](https://github.com/archie0732/c-solution/blob/main/leetcode/Container%20With%20Most%20Water.md) `cpp` `greedy` `array`
+11. [Find First Palindromic String in the Array](https://github.com/archie0732/c-solution/blob/main/leetcode/Find%20First%20Palindromic%20String%20in%20the%20Array.md) `cpp` `array` `string`
+12. [Rearrange Array Elements by Sign](https://github.com/archie0732/c-solution/blob/main/leetcode/Rearrange%20Array%20Elements%20by%20Sign.md) `cpp` `vector`
+13. [Perfect Squares](https://github.com/archie0732/c-solution/blob/main/leetcode/Perfect%20Squares.md) `cpp` `js` `dp` `bfs`
+14. [Bitwise AND of Numbers Range](https://github.com/archie0732/c-solution/blob/main/leetcode/Bitwise%20AND%20of%20Numbers%20Range.cpp)`cpp` `bit`
+15. [3Sum](https://github.com/archie0732/c-solution/blob/main/leetcode/3Sum.java) `java` `array`
+16. [Cheapest Flights Within K Stops](https://github.com/archie0732/c-solution/blob/main/leetcode/Cheapest%20Flights%20Within%20K%20Stops.cpp) `cpp` `bfs` `queue`
+17. [Longest Consecutive Sequence](https://github.com/archie0732/c-solution/blob/main/leetcode/Longest%20Consecutive%20Sequence.cpp)`cpp` `sort`
+18. [Number of Provinces](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Provinces.cpp) `cpp` `union find` `dsu`
+19. [Redundant Connection](https://github.com/archie0732/c-solution/blob/main/leetcode/Redundant%20Connection.cpp) `cpp` `union find` `dsu` `tree`
+20. [Even Odd Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Even%20Odd%20Tree.java) `java` `tree`
+21. [Add One Row to Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Add%20One%20Row%20to%20Tree.md) `java` `tree` `bfs`
+22. [Smallest String Starting From Leaf](https://github.com/archie0732/c-solution/blob/main/leetcode/Smallest%20String%20Starting%20From%20Leaf.md)`java` `bfs` `binary tree`
+23. [Validate Binary Search Tree](https://github.com/archie0732/c-solution/blob/main/leetcode/Validate%20Binary%20Search%20Tree.md) `java` `binary tree`
+24. [Number of Islands](https://github.com/archie0732/c-solution/blob/main/leetcode/Number%20of%20Islands.md) `cpp` `遍歷`
+25. [Compare Version Numbers](https://github.com/archie0732/c-solution/blob/main/leetcode/165.%20Compare%20Version%20Numbers.md)`cpp`
+26. [Generate Parentheses](https://github.com/archie0732/c-solution/blob/main/leetcode/22.%20Generate%20Parentheses.md) `cpp` `backtrace` `dp`
+27. [Subarray Sums Divisible by K](https://github.com/archie0732/c-solution/blob/main/leetcode/974.%20Subarray%20Sums%20Divisible%20by%20K.md)`cpp` `math` `map`
+28. [Swap Nodes in Pairs](https://github.com/archie0732/c-solution/blob/main/leetcode/24.%20Swap%20Nodes%20in%20Pairs.md) `java` `ListNode`
+29. [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://github.com/archie0732/c-solution/blob/main/leetcode/2192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.md)`cpp` `java` `碩樸 DAG` `dfs`
+30. [38. Count and Say](https://github.com/archie0732/c-solution/blob/main/leetcode/38.%20Count%20and%20Say.md)`cpp` `string`
+31. [2181. Merge Nodes in Between Zeros](https://github.com/archie0732/c-solution/blob/main/leetcode/2181.%20Merge%20Nodes%20in%20Between%20Zeros.md)`ListNode` `java`
+32. [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/archie0732/c-solution/blob/main/leetcode/2058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points.md)`java` `ListNode`
+33. [1823. Find the Winner of the Circular Game](https://github.com/archie0732/c-solution/blob/main/leetcode/1823.%20Find%20the%20Winner%20of%20the%20Circular%20Game.md)`cpp` `queue`
+34. [1190. Reverse Substrings Between Each Pair of Parentheses](https://github.com/archie0732/c-solution/blob/main/leetcode/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)`cpp` `stack`
+35. [1717. Maximum Score From Removing Substrings](https://github.com/archie0732/c-solution/blob/main/leetcode/1717.%20Maximum%20Score%20From%20Removing%20Substrings.md)`python` `stack`
+36. [1894. Find the Student that Will Replace the Chalk](https://github.com/archie0732/c-solution/blob/main/leetcode/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.md)`python` `math`
+37. [89. Gray Code](https://github.com/archie0732/c-solution/blob/main/leetcode/89.%20Gray%20Code.md)`cpp` `gray code`
+38. [2028. Find Missing Observations](https://github.com/archie0732/c-solution/blob/main/leetcode/2028.%20Find%20Missing%20Observations.md)`python` `math`
 
 **Hard**
+
 1. [Median of Two Sorted Arrays](https://github.com/archie0732/c-solution/blob/main/leetcode/Median%20of%20Two%20Sorted%20Arrays.md)`java`
 2. [Merge k Sorted Lists](https://github.com/archie0732/c-solution/blob/main/leetcode/Merge%20k%20Sorted%20Lists.md)`java`
 3. [Greatest Common Divisor Traversal](https://github.com/archie0732/c-solution/blob/main/leetcode/Greatest%20Common%20Divisor%20Traversal.cpp) `cpp` `dsu`
 4. [330. Patching Array](https://github.com/archie0732/c-solution/blob/main/leetcode/330.%20Patching%20Array.md)`cpp` `math` `greedy` `*****`
-***
-### Uva online judge 
+
+---
+
+### Uva online judge
+
 1. [ $`\textcolor{red}{Vito's Family}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Vito's%20Family.md)`c++`
 2. [Hashmat the Brave Warrior](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Hashmat%20the%20Brave%20Warrior.md)`c++`
 3. [Rotating Sentences](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rotating%20Sentences.md)`c++`
@@ -172,7 +178,7 @@
 5. [we can say 11](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
 6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability%3F.md)`cpp`
 7. [Polynomial Showdown](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Polynomial%20Showdown.md)`cpp` $`\textcolor{green}{含筆記}`$
-8.  [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
+8. [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
 9. [Rock Scissors Paper](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rock%2C%20Scissors%2C%20Paper.md)`cpp` $`\textcolor{green}{含筆記}`$
 10. [What's Cryptanalysis? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%E2%80%99s%20Cryptanalysis%3F.md)`cpp` $`\textcolor{green}{含筆記}`$
 11. [Bar Code](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bar%20Code.md)`cpp` $`\textcolor{green}{含筆記}`$
@@ -218,7 +224,7 @@
 51. [Circum Triangle](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Circum%20Triangle.md) `java` `向量`
 52. [Pig-Latin](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Pig-Latin.md)`cpp` `string`
 53. [Is This Integration ?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Is%20This%20Integration%20%3F.md)`cpp` `數論` `******`
-54. [ The Largest/Smallest Box ... ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Largest-Smallest%20Box.md)`cpp` `數論` ****
+54. [ The Largest/Smallest Box ... ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Largest-Smallest%20Box.md)`cpp` `數論` \*\*\*\*
 55. [Contest Scoreboard](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Contest%20Scoreboard.md)`cpp` `sort`
 56. [ Soundex](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Soundex.md)`cpp`
 57. [Mine Sweeper ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Mine%20Sweeper.md)`cpp` `建表`
@@ -232,7 +238,7 @@
 65. [Geometry Paradox](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Geometry%20Paradox.cpp) `cpp` `****` **`2a+2b = 2R 所以 兩個內接圓的半徑就是大圓的半徑`**
 66. [The Grazing Cow](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Grazing%20Cow.cpp)`cpp` `***` `橢圓形面積`
 67. [F91](https://github.com/archie0732/c-solution/blob/main/onlinejudge/F-91.cpp) `cpp`
-68. [Count the factors](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Count%20the%20factors.cpp) `cpp` `質因數` **`**`**
+68. [Count the factors](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Count%20the%20factors.cpp) `cpp` `質因數` **`**`\*\*
 69. [Ants](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Ants.cpp) `cpp`
 70. [The Skyline Problem](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Skyline%20Problem.cpp)`cpp` `****`
 71. [Krakovia](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Krakovia.java) `java` `數組` `***`
@@ -244,7 +250,7 @@
 77. [Maximum Product](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Maximum%20Product.md) `cpp` `ll 不可以設置為負數`
 78. [Relational Operators ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Relational%20Operators.md) `cpp` `java` `BigInteger`
 79. [Counting Chaos](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Counting%20Chaos.md) `cpp` `****` **`不包含當下時間是對稱` `大於1440時歸零`**
-80. [Gourmet Games](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Gourmet%20Games.md) `cpp` 
+80. [Gourmet Games](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Gourmet%20Games.md) `cpp`
 81. [Three-square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Three-square.md) `cpp` `three point`
 82. [The Huge One ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/The%20Huge%20One%20.md) `java` `BigInteger`
 83. [Cubes](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cubes.md)`cpp` `***` `建表`
@@ -278,15 +284,13 @@
 111. [Save Setu](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Save%20Setu.md)`cpp`
 112. [$`\textcolor{red}{Last Digit}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Last%20Digit.md)`循環` `***`
 113. [One-Two-Three](https://github.com/archie0732/c-solution/blob/main/onlinejudge/One-Two-Three.md) `cpp`
-114. 
-
-
+114.
 
 ### other
+
 1. [Constructing a Number](https://github.com/archie0732/c-solution/blob/main/other/Constructing%20a%20Number.md)`c++`$`\textcolor{green}{含筆記}`$
 2. [ $`\textcolor{red}{Primitive \,Problem}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
-3. [B班hw 6](https://github.com/archie0732/c-solution/blob/main/other/6.c)`c`
-4. [關於java的BigInteger](https://github.com/archie0732/c-solution/blob/main/other/java_about_BigInteger.md) `java` `BigInteger`
-
+3. [B 班 hw 6](https://github.com/archie0732/c-solution/blob/main/other/6.c)`c`
+4. [關於 java 的 BigInteger](https://github.com/archie0732/c-solution/blob/main/other/java_about_BigInteger.md) `java` `BigInteger`
 
 #### 作者: archie0732
