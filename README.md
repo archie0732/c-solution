@@ -7,7 +7,7 @@
 - 2023-10-07 更新: 加入解題註解
 - 2023-12-12 更新: 加入對題目的分類(像是`greedy` `math`)
 - 2024-01-02 更新: 加入 leetcode 難度分別
-- 2024-02-12 更新: 為`cpe`的必考題(49)擴展專區，並補齊註解
+- 2024-02-12 更新: 為`cpe`的必考題(49)擴充專區，並補齊註解
 - 2024-05-20 更新: 修復因為`online judge`更新後某些過不了的 code
 - 2024-06-17 更新: leetcode(2024-06-17 以後的解題)將加入題號
 
@@ -30,7 +30,7 @@
 3. [Rotating Sentences](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Rotating%20Sentences.md)`c++`$`\textcolor{green}{含筆記}`$
 4. [Primary Arithmetic](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Primary%20Arithmetic.md)`c++`
 5. [ $`\textcolor{red}{We\, \,can\,\, say\,\, 11}`$ ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/You%20can%20say%2011.md)`c++` $`\textcolor{green}{含筆記}`$
-6. [What is the Probability?](`./onlinejudge/What is the Probability.md`)`cpp` **`機率有可能是0`**
+6. [What is the Probability?](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%20is%20the%20Probability.md)`cpp` **`機率有可能是0`**
 7. [List of Conquests](https://github.com/archie0732/c-solution/blob/main/onlinejudge/List%20of%20Conquests.md)`cpp` $`\textcolor{green}{含筆記}`$
 8. [What's Cryptanalysis? ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/What%E2%80%99s%20Cryptanalysis%3F.md)`cpp` $`\textcolor{green}{含筆記}`$ **`cin完後，要用getline去吃掉換行才能在換行`**
 9. [Decode the Mad man](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Decode%20the%20Mad%20man.md)`cpp` $`\textcolor{green}{含筆記}`$ **`大小寫`**
@@ -72,7 +72,7 @@
 45. [Cola](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cola.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學`
 46. [3n+1](https://github.com/archie0732/c-solution/blob/main/onlinejudge/3n%2B1.md)`cpp` $`\textcolor{green}{含筆記}`$ `數學` $`\textcolor{red}{陷阱}`$ `a跟b不會按照大小排`
 47. [Largest Square](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Largest%20Square.md)`cpp` $`\textcolor{green}{含筆記}`$ `二為空間`
-48. [Bangla Numbers ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bangla%20Numbers.md) `都要要空4格(用printf)` `注意空格(數字與字母間的空格)` `只有 0 時要輸出`
+48. [Bangla Numbers ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Bangla%20Numbers.md) `都要要空4格(用printf)` `注意空格(數位與字母間的空格)` `只有 0 時要輸出`
 49. [Cheapest Base ](https://github.com/archie0732/c-solution/blob/main/onlinejudge/Cheapest%20Base.md)`cpp` `進位轉換` `****`
 
 **3 星**  
