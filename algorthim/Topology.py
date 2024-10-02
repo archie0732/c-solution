@@ -1,15 +1,24 @@
-test = [[0, 1], [1, 2], [2, 3], [0, 3]]
-n = 4  # 點的數量
+class KahnTopology:
+    def __init__(self, grap: list[list[int]], n) -> None:
+        self.indegree = [0] * n
+        self.grap = grap
+        for i in range(n):
+            for v in grap[i]:
+                self.indegree[v] += 1
+        self.queue = [u for u in range(n) if self.indegree[u] == 0]
+        self.result = []
 
+    def TopologySort(self):
+        while self.queue:
+            node = self.queue.pop(0)
+            self.result.append(node)
 
-def Topology():
-    degree = [0] * n
-    road = {}
+            for nb in self.grap[node]:
+                self.indegree[nb] -= 1
+                if self.indegree[nb] == 0:
+                    self.queue.append(nb)
 
-    # 建立層與路
-    for i in test:
-        if i[0] in road:
-            road[i[0]].append(i[1])
+        if len(self.result) == len(self.grap):
+            return self.result
         else:
-            road[i[0]] = [i[1]]
-        degree[i[1]] += 1
+            return None
