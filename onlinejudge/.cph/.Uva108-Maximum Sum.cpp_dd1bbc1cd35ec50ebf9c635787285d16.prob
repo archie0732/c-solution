@@ -1,0 +1,1 @@
+{"name":"Local: Uva108-Maximum Sum","url":"d:\\c-solution\\onlinejudge\\Uva108-Maximum Sum.cpp","tests":[{"id":1728034142358,"input":"4\n0 -2 -7 0 9 2 -6 2\n-4 1 -4 1 -1\n8 0 -2","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c-solution\\onlinejudge\\Uva108-Maximum Sum.cpp","group":"local","local":true}
