@@ -1,5 +1,7 @@
 # 將解完的題目放在這裡（from 2023 11)
 
+  [有此問題 ==>點我進入](https://hackmd.io/Ui1zThJ8RsyKKWaZaHbh0Q?view)
+
 ![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
 
 ## 更新日誌(不含增加題目)
