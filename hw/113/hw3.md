@@ -31,7 +31,6 @@ for(int i = 0;i < 3;i++){
 // 沒有 3 因為 i = 3 時不小於 3
 ```
 
-處理正常情況
 
 ```cpp
 #include<stdio.h>
