@@ -17,31 +17,18 @@ void slove()
     }
 
     stack<int> index;
-    index.push(arr[1]);
+    index.push(1);
 
     int i = -1, j = -1, flag = 0, last = 0;
     int valI, valJ, valK;
-    index.push(arr[0]);
 
-    /*
-    cout << "#debug show arr: ";
-
-    for (auto it : arr)
-    {
-        cout << it << " ";
-    }
-    cout << endl;
-    */
-
-    for (int k = 1; k < n; k++)
+    for (int k = 2; k <= n; k++)
     {
         if (arr[index.top()] > arr[k] && index.size() >= 2)
         {
             valJ = arr[index.top()];
-            // cout << "#debug pop index:" << j << " and value: " << arr[index.top()] << endl;
             j = index.top();
             index.pop();
-
             if (arr[index.top()] > arr[k])
             {
                 flag = 1;
@@ -53,7 +40,6 @@ void slove()
             }
             else
             {
-                // cout << "#debug push index: " << k << " and value: " << arr[k] << endl;
                 index.push(k);
             }
         }
@@ -69,7 +55,6 @@ void slove()
     if (flag == 1)
     {
         cout << "yes " << i << " " << j << " " << last << endl;
-        // cout << "debug: " << valI << " " << valJ << " " << valK << endl;
     }
     else
     {

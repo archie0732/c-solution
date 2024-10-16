@@ -57,5 +57,10 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "editor.formatOnPaste": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.cpp": "cpp",
+    "ostream": "cpp"
+  }
 }
