@@ -120,6 +120,7 @@
 12. [Binary Tree Inorder Traversal](https://github.com/archie0732/c-solution/blob/main/leetcode/Binary%20Tree%20Inorder%20Traversal.md) `java` `tree` `inorder traversal`
 13. [Sum of All Subset XOR Totals](https://github.com/archie0732/c-solution/blob/main/leetcode/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.md) `java` `math` `subarray`
 14. [Relative Ranks](https://github.com/archie0732/c-solution/blob/main/leetcode/Relative%20Ranks.md)`cpp` `sort`
+15. [1346. Check If N and Its Double Exist](https://github.com/archie0732/c-solution/blob/main/leetcode/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp)
 
 **Medium**
 
