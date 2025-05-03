@@ -48,10 +48,19 @@ cout << "存款金額 << endl; // 缺少字元
 
 當批改結果顯示錯誤後
 
-![](./picture/Screenshot 2025-05-03 201637.png)
+![](https://github.com/archie0732/c-solution/blob/main/picture/Screenshot%202025-05-03%20201637.png)
+
+
+
+
+
+
 
 
 請複製連結，並在ta時間來507找我，感恩
+
+
+![](https://github.com/archie0732/c-solution/blob/main/picture/Screenshot%202025-05-03%20201659.png)
 
 
 
