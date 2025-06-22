@@ -1,5 +1,16 @@
 # 將解完的題目放在這裡（from 2023 11)
 
+---
+
+## 注意
+
+>[!note]
+>## 由於之前分類過於雜亂2025後解題移至新專案
+[https://github.com/archie0732/2025-icpc-practice](https://github.com/archie0732/2025-icpc-practice)
+
+---
+
+
 [cpp環境問題 <- 點我進入](https://hackmd.io/Ui1zThJ8RsyKKWaZaHbh0Q?view)
 
 ![](https://github.com/archie0732/c-solution/blob/main/picture/wp8352375-ayaka-desktop-wallpapers.jpg)
